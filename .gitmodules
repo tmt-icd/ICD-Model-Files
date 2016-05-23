@@ -1,0 +1,111 @@
+[submodule "AOESW-Model-Files"]
+	path = AOESW-Model-Files
+	url = https://github.com/tmtsoftware/AOESW-Model-Files.git
+[submodule "APS-Model-Files"]
+	path = APS-Model-Files
+	url = https://github.com/tmtsoftware/APS-Model-Files.git
+[submodule "CIS-Model-Files"]
+	path = CIS-Model-Files
+	url = https://github.com/tmtsoftware/CIS-Model-Files.git
+[submodule "CLN-Model-Files"]
+	path = CLN-Model-Files
+	url = https://github.com/tmtsoftware/CLN-Model-Files.git
+[submodule "COAT-Model-Files"]
+	path = COAT-Model-Files
+	url = https://github.com/tmtsoftware/COAT-Model-Files.git
+[submodule "COOL-Model-Files"]
+	path = COOL-Model-Files
+	url = https://github.com/tmtsoftware/COOL-Model-Files.git
+[submodule "CRYO-Model-Files"]
+	path = CRYO-Model-Files
+	url = https://github.com/tmtsoftware/CRYO-Model-Files.git
+[submodule "CSW-Model-Files"]
+	path = CSW-Model-Files
+	url = https://github.com/tmtsoftware/CSW-Model-Files.git
+[submodule "DMS-Model-Files"]
+	path = DMS-Model-Files
+	url = https://github.com/tmtsoftware/DMS-Model-Files.git
+[submodule "DPS-Model-Files"]
+	path = DPS-Model-Files
+	url = https://github.com/tmtsoftware/DPS-Model-Files.git
+[submodule "ENC-Model-Files"]
+	path = ENC-Model-Files
+	url = https://github.com/tmtsoftware/ENC-Model-Files.git
+[submodule "ESEN-Model-Files"]
+	path = ESEN-Model-Files
+	url = https://github.com/tmtsoftware/ESEN-Model-Files.git
+[submodule "ESW-Model-Files"]
+	path = ESW-Model-Files
+	url = https://github.com/tmtsoftware/ESW-Model-Files.git
+[submodule "HNDL-Model-Files"]
+	path = HNDL-Model-Files
+	url = https://github.com/tmtsoftware/HNDL-Model-Files.git
+[submodule "HQ-Model-Files"]
+	path = HQ-Model-Files
+	url = https://github.com/tmtsoftware/HQ-Model-Files.git
+[submodule "IRIS-Model-Files"]
+	path = IRIS-Model-Files
+	url = https://github.com/tmtsoftware/IRIS-Model-Files.git
+[submodule "IRMS-Model-Files"]
+	path = IRMS-Model-Files
+	url = https://github.com/tmtsoftware/IRMS-Model-Files.git
+[submodule "LGSF-Model-Files"]
+	path = LGSF-Model-Files
+	url = https://github.com/tmtsoftware/LGSF-Model-Files.git
+[submodule "M1CS-Model-Files"]
+	path = M1CS-Model-Files
+	url = https://github.com/tmtsoftware/M1CS-Model-Files.git
+[submodule "M1S-Model-Files"]
+	path = M1S-Model-Files
+	url = https://github.com/tmtsoftware/M1S-Model-Files.git
+[submodule "M2S-Model-Files"]
+	path = M2S-Model-Files
+	url = https://github.com/tmtsoftware/M2S-Model-Files.git
+[submodule "M3S-Model-Files"]
+	path = M3S-Model-Files
+	url = https://github.com/tmtsoftware/M3S-Model-Files.git
+[submodule "MCS-Model-Files"]
+	path = MCS-Model-Files
+	url = https://github.com/tmtsoftware/MCS-Model-Files.git
+[submodule "NFIRAOS-Model-Files"]
+	path = NFIRAOS-Model-Files
+	url = https://github.com/tmtsoftware/NFIRAOS-Model-Files.git
+[submodule "NSCU-Model-Files"]
+	path = NSCU-Model-Files
+	url = https://github.com/tmtsoftware/NSCU-Model-Files.git
+[submodule "OSS-Model-Files"]
+	path = OSS-Model-Files
+	url = https://github.com/tmtsoftware/OSS-Model-Files.git
+[submodule "REFR-Model-Files"]
+	path = REFR-Model-Files
+	url = https://github.com/tmtsoftware/REFR-Model-Files.git
+[submodule "ROAD-Model-Files"]
+	path = ROAD-Model-Files
+	url = https://github.com/tmtsoftware/ROAD-Model-Files.git
+[submodule "SCMS-Model-Files"]
+	path = SCMS-Model-Files
+	url = https://github.com/tmtsoftware/SCMS-Model-Files.git
+[submodule "SOSS-Model-Files"]
+	path = SOSS-Model-Files
+	url = https://github.com/tmtsoftware/SOSS-Model-Files.git
+[submodule "STR-Model-Files"]
+	path = STR-Model-Files
+	url = https://github.com/tmtsoftware/STR-Model-Files.git
+[submodule "SUM-Model-Files"]
+	path = SUM-Model-Files
+	url = https://github.com/tmtsoftware/SUM-Model-Files.git
+[submodule "TCS-Model-Files"]
+	path = TCS-Model-Files
+	url = https://github.com/tmtsoftware/TCS-Model-Files.git
+[submodule "TEST-Model-Files"]
+	path = TEST-Model-Files
+	url = https://github.com/tmtsoftware/TEST-Model-Files.git
+[submodule "TINC-Model-Files"]
+	path = TINC-Model-Files
+	url = https://github.com/tmtsoftware/TINC-Model-Files.git
+[submodule "TINS-Model-Files"]
+	path = TINS-Model-Files
+	url = https://github.com/tmtsoftware/TINS-Model-Files.git
+[submodule "WFOS-Model-Files"]
+	path = WFOS-Model-Files
+	url = https://github.com/tmtsoftware/WFOS-Model-Files.git
