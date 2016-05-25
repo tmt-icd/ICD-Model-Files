@@ -14,10 +14,11 @@ if ! hash git 2>/dev/null; then
 fi
 
 echo "Starting with a clean database..."
-icd-db --drop db
+echo y | icd-db --drop db
 
 workdir=/tmp/icd-$USER
-test -d $workdir || mkdir $workdir
+rm -rf $workdir
+mkdir $workdir
 cd $workdir
 git clone --recursive https://github.com/tmtsoftware/ICD-Model-Files.git
 cd ICD-Model-Files
