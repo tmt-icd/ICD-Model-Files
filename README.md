@@ -7,6 +7,17 @@ ICD model files describe the APIs for TMT subsystems in a format defined by the 
 software (based on [HOCON](https://github.com/typesafehub/config/blob/master/HOCON.md), a simplified form of JSON).
 The model files are validated by the software using [JSON Schema](http://json-schema.org/).
 
+You can use the `ingest.sh` script in the [icd](https://github.com/tmtsoftware/icd) project to import the contents of
+this repository, with version history, into the ICD database.
+
+Warning: The ingest.sh script will delete the current contents of the ICD database before
+ingesting the files from the repository.
+
+The icd software looks for release tags in the Git submodules.
+Git subsystem releases should have names like "v1.0", "v1.2", "v2.0", etc.
+These then translate into published versions in the ICD database: "1.0", "1.1", "2.0".
+
+
 How to use Git with this repository
 -----------------------------------
 
