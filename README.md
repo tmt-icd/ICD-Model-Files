@@ -25,6 +25,14 @@ In order to check out this repository with the submodules you need to add the --
   git clone --recursive https://github.com/tmtsoftware/ICD-Model-Files.git
 ```
 
+To update the repository later to get the latest changes:
+```
+  git pull
+  git submodule foreach git pull origin master
+```
+
+The second line iterates through all the git submodules and runs "git pull origin master" on each.
+
 Any changes should be made by *forking* the individual subsystem repositories (such as TCS-Model-Files)
 and then making a *pull request*.
 The TMT system administrator will then merge the changes into this repository.
