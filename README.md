@@ -10,6 +10,12 @@ The model files are validated by the software using [JSON Schema](http://json-sc
 How to use Git with this repository
 -----------------------------------
 
+In order to check out this repository with the submodules you need to add the --recursive flag, like this:
+
+```
+  git clone --recursive https://github.com/tmtsoftware/ICD-Model-Files.git
+```
+
 To add a subsystem to this repository, first create the repository on GitHub
 (under [tmtsoftware](https://github.com/tmtsoftware)), then (For example, for TCS):
 
@@ -17,12 +23,6 @@ To add a subsystem to this repository, first create the repository on GitHub
    git submodule add https://github.com/tmtsoftware/TCS-Model-Files.git
    git commit -m "added TCS subsystem model files repository"
    git push
-```
-
-In order to check out this repository with the submodules you need to add the --recursive flag, like this:
-
-```
-  git clone --recursive https://github.com/tmtsoftware/ICD-Model-Files.git
 ```
 
 To update the repository later to get the latest changes:
