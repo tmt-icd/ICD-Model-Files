@@ -19,7 +19,7 @@ icd-db --drop db
 workdir=/tmp/icd-$USER
 test -d $workdir || mkdir $workdir
 cd $workdir
-#git clone --recursive https://github.com/tmtsoftware/ICD-Model-Files.git
+git clone --recursive https://github.com/tmtsoftware/ICD-Model-Files.git
 cd ICD-Model-Files
 submodules=`git submodule status | cut -d ' ' -f 3`
 for submodule in $submodules ; do (
