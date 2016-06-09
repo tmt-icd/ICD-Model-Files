@@ -109,3 +109,6 @@
 [submodule "WFOS-Model-Files"]
 	path = WFOS-Model-Files
 	url = https://github.com/tmtsoftware/WFOS-Model-Files.git
+[submodule "TEST2-Model-Files"]
+	path = TEST2-Model-Files
+	url = https://github.com/tmtsoftware/TEST2-Model-Files.git
