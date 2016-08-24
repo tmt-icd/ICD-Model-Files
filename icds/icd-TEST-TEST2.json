@@ -1,0 +1,10 @@
+{
+  "subsystems": ["TEST", "TEST2"],
+  "icds": [{
+    "versions": ["1.0", "1.0"],
+    "icdVersion": "1.0",
+    "date": "2016-08-24T07:39:59.315Z",
+    "comment": "Test icd-git publish feature for ICD",
+    "user": "abrighton"
+  }]
+}
