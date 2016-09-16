@@ -47,20 +47,3 @@ For ease of publishing we will establish the Framework documents as a separate r
 By following this process it's possible to re-release the detailed ICD without needing to update the Framework document. This is acceptable as long as the detailed ICD doesn’t violate the content of the Framework document. There may be occasions the Framework document needs to change when a detailed ICD is released because some aspect of the higher level description of how the interface works has been changed, but usually it will just be a re-release of the detailed ICD.
 
 Configuration Index Documents (CID) for subsystems should reference both the Framework and Detailed ICD documents as participating parts of software ICDs.
-
-# To Do 
-## To Do (Kim):
-1. Set up permissions so that each team can push to their own repository
-2. Set up permissions so that Scott can merge the pull request.
-3. Set up repositories as a different project
-
-## To Do (Allan):
-1. Implement publishing ICDs using files in the repository in HOCON/JSON format
-that record the history, comments of ICD releases (short term)
-
-2. Replace ingest-icd.sh script with more advanced application or web app.  
-Need ability to update from Root (all or selected modules?) or selected latest from a
-submodule that may not yet have been committed to the Root. (longer term)
-
-## To Do (Kim and Scott):
-Run through a complete process to publish an ICD with tools (following completion of Item 1 from Allan)
