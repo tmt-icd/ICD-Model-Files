@@ -39,6 +39,8 @@ updated API are re-published when that API is approved into the Root
 Repository.  Several APIs will often be considered together for approval
 / release of new ICDs.
 
+The GitHub model file repository (See https://github.com/tmt-icd) is structured to have a Submodule for each SubSystem (IRIS-Model-Files, TCS-Model-Files, etc).  Teams can update their model files by pushing to these repositories at any time.  Once they are ready to publish and ICD, a request is made to TMT systems engineering (SE). SE then reviews the proposed changes and decides on publishing the APIs and related ICD(s). Publishing happens through the ICD Database software, and results in updates to https://github.com/tmt-icd/ICD-Model-Files/tree/master/apis and https://github.com/tmt-icd/ICD-Model-Files/tree/master/icds, which are read by the ICD Database sofware to provide publishing history information for all users.  Several APIs will often be considered together for approval / release of new ICDs.  All affected ICDs related to an updated API are re-published when a new version is approved.  
+
 # Workflow Steps:
 1. Teams work with each other to agree on ICDs, updating their API’s as
 needed to reach agreement. During this process, each team updates their
