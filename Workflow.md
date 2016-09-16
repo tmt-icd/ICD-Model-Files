@@ -43,7 +43,9 @@ Framework document form the full ICD.
 
 # Configuration Control of Framework and Detailed ICD Documents
 For ease of publishing we will establish the Framework documents as a separate releases from the ICD Database published document.  Framework document can reference the detailed ICD (from the ICD Database) as a reference document (i.e. no version reference is needed). The framework document will follow the standard TMT document release process with routing for signatures. The detailed ICD will be released from the ICD Database following the release process described above (SE reviewing, checking with stakeholders, then publishing from ICD Database and placing PDF on Docushare).  
+
 By following this process it's possible to re-release the detailed ICD without needing to update the Framework document. This is acceptable as long as the detailed ICD doesn’t violate the content of the Framework document. There may be occasions the Framework document needs to change when a detailed ICD is released because some aspect of the higher level description of how the interface works has been changed, but usually it will just be a re-release of the detailed ICD.
+
 Configuration Index Documents (CID) for subsystems should reference both the Framework and Detailed ICD documents as participating parts of software ICDs.
 
 # To Do 
