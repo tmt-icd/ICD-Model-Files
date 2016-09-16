@@ -26,19 +26,6 @@ the software ICD between two subsystems.
 This step assumes that the framework document is already published.
 
 # Overview of GitHub organization:
-The GitHub model file repository (See
-https://github.com/tmtsoftware/ICD-Model-Files) is structured to have a
-Submodule for each SubSystem (IRIS-Model-Files, TCS-Model-Files, etc) as
-well as a Root Repository that references specific commits to these
-submodules.  Individual teams can push changes to their Submodules
-without external review or approval. The approval / release process
-involves the step of updating the commit to the Root Repository. This is
-done at the time of a formal release of an API.  ICDs are generated from
-the API commits that are in the Root Repository.  All ICDs related to an
-updated API are re-published when that API is approved into the Root
-Repository.  Several APIs will often be considered together for approval
-/ release of new ICDs.
-
 The GitHub model file repository (See https://github.com/tmt-icd) is structured to have a Submodule for each SubSystem (IRIS-Model-Files, TCS-Model-Files, etc).  Teams can update their model files by pushing to these repositories at any time.  Once they are ready to publish and ICD, a request is made to TMT systems engineering (SE). SE then reviews the proposed changes and decides on publishing the APIs and related ICD(s). Publishing happens through the ICD Database software, and results in updates to https://github.com/tmt-icd/ICD-Model-Files/tree/master/apis and https://github.com/tmt-icd/ICD-Model-Files/tree/master/icds, which are read by the ICD Database sofware to provide publishing history information for all users.  Several APIs will often be considered together for approval / release of new ICDs.  All affected ICDs related to an updated API are re-published when a new version is approved.  
 
 # Workflow Steps:
@@ -50,12 +37,8 @@ API’s by pushing to their GitHub submodule, for example
 version(s) of API(s) and ICD(s).
 3. SE Reviews the request, consults with stakeholders and
 agrees/disagrees to publishing the ICD.
-4. Once approved, TMT Systems Engineering will update the Root
-Repository to include the changes made in each submodule repository. 
-One this is complete the updated APIs and ICDs can be loaded into the
-ICD Database using the icd-ingest.sh script.
-5. TMT Systems Engineering publishes the ICD(s) related to updated Root
-Repository APIs in .pdf format on Docushare.  This and the accompanying
+4. Once approved, TMT Systems Engineering will publish the APIs and related ICDs, which results in updates to the apis and icds version history.  This information is then available to all users of hte ICD Database.
+5. TMT Systems Engineering publishes the ICD(s) .pdf format on Docushare.  This and the accompanying
 Framework document form the full ICD.
 
 # To Do 
