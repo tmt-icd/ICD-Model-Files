@@ -12,7 +12,6 @@ and is automatically generated from the JSON files in the apis and icds subdirec
 
 TEST<br>Version | User | Date | Comment
 --------|------|------|--------
-1.1|abrighton|2016-09-12T20:02:54.904Z|Testing icd-git publish feature for ICD
 1.0|abrighton|2016-08-24T07:38:47.782Z|Testing icd-git publish feature
 
 
