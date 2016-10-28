@@ -1,0 +1,10 @@
+{
+  "subsystem": "ESW",
+  "apis": [{
+    "commit": "f8b8616e11007efef4b76801e277ace19c6878dd",
+    "version": "1.0",
+    "date": "2016-10-28T21:10:03.234Z",
+    "comment": "Initial release of API",
+    "user": "scroberts"
+  }]
+}
