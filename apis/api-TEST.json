@@ -1,4 +1,10 @@
 {
   "subsystem": "TEST",
-  "apis": []
+  "apis": [{
+    "commit": "e564513e036821b7bf9b99718b12f2d017ba2c36",
+    "version": "1.0",
+    "date": "2016-10-28T21:17:44.731Z",
+    "comment": "testing",
+    "user": "abrighton"
+  }]
 }
