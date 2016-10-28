@@ -8,6 +8,13 @@ and is automatically generated from the JSON files in the apis and icds subdirec
 
  
 
+### Subsystem API: IRIS
+
+IRIS<br>Version | User | Date | Comment
+--------|------|------|--------
+1.0|scroberts|2016-10-28T21:08:20.882Z|Initial release of API
+
+
 ### Subsystem API: TEST
 
 TEST<br>Version | User | Date | Comment
