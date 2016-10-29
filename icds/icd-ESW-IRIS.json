@@ -1,0 +1,10 @@
+{
+  "subsystems": ["ESW", "IRIS"],
+  "icds": [{
+    "versions": ["1.0", "1.0"],
+    "icdVersion": "1.0",
+    "date": "2016-10-29T16:13:28.921Z",
+    "comment": "Release for IRIS PDR",
+    "user": "scroberts"
+  }]
+}
