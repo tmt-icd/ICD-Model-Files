@@ -1,0 +1,10 @@
+{
+  "subsystems": ["IRIS", "TCS"],
+  "icds": [{
+    "versions": ["1.0", "1.0"],
+    "icdVersion": "1.0",
+    "date": "2016-10-29T16:12:12.201Z",
+    "comment": "Release for IRIS PDR",
+    "user": "scroberts"
+  }]
+}
