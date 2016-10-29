@@ -8,26 +8,11 @@ and is automatically generated from the JSON files in the apis and icds subdirec
 
  
 
-### Subsystem API: TEST
-
-TEST<br>Version | User | Date | Comment
---------|------|------|--------
-1.0|abrighton|2016-10-28T21:17:44.731Z|testing
-
-
 ### Subsystem API: ESW
 
 ESW<br>Version | User | Date | Comment
 --------|------|------|--------
 1.0|scroberts|2016-10-28T21:10:03.234Z|Initial release of API
-
-
-### Subsystem API: TEST2
-
-TEST2<br>Version | User | Date | Comment
---------|------|------|--------
-1.1|scroberts|2016-09-08T18:28:11.907Z|Scott's update
-1.0|abrighton|2016-08-24T07:39:25.592Z|Test icd-git publish feature
 
 
 ### Subsystem API: IRIS
@@ -43,8 +28,30 @@ TCS<br>Version | User | Date | Comment
 --------|------|------|--------
 1.0|scroberts|2016-10-28T21:09:16.667Z|Initial release of API
 
+
+### Subsystem API: TEST
+
+TEST<br>Version | User | Date | Comment
+--------|------|------|--------
+1.0|abrighton|2016-10-28T21:17:44.731Z|testing
+
+
+### Subsystem API: TEST2
+
+TEST2<br>Version | User | Date | Comment
+--------|------|------|--------
+1.1|scroberts|2016-09-08T18:28:11.907Z|Scott's update
+1.0|abrighton|2016-08-24T07:39:25.592Z|Test icd-git publish feature
+
 ## ICD Release History
 
+
+
+### ICD between IRIS and TCS
+
+ICD<br>Version|IRIS<br>Version | TCS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.0|1.0|1.0|scroberts|2016-10-29T16:12:12.201Z|Release for IRIS PDR
 
 
 ### ICD between TEST and TEST2
