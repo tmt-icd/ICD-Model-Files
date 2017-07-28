@@ -1,6 +1,12 @@
 {
   "subsystem": "TCS",
   "apis": [{
+    "commit": "defa679c065b96e0c2521803b608b76a64395177",
+    "version": "1.1",
+    "date": "2017-07-28T21:14:00.786Z",
+    "comment": "Release after merging pull request #3",
+    "user": "scroberts"
+  }, {
     "commit": "4eb21a27503327eecfd5537c02a8c6e67d6d6a16",
     "version": "1.0",
     "date": "2016-10-28T21:09:16.667Z",
