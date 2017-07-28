@@ -1,0 +1,10 @@
+{
+  "subsystem": "NFIRAOS",
+  "apis": [{
+    "commit": "ff2cce22addfc6fbdf35c063896721ce26032fa2",
+    "version": "1.0",
+    "date": "2017-07-28T21:12:43.851Z",
+    "comment": "Released after March 20, 2017 updates",
+    "user": "scroberts"
+  }]
+}
