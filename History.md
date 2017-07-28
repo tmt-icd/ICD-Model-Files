@@ -23,6 +23,13 @@ IRIS<br>Version | User | Date | Comment
 1.0|scroberts|2016-10-28T21:08:20.882Z|Initial release of API
 
 
+### Subsystem API: NFIRAOS
+
+NFIRAOS<br>Version | User | Date | Comment
+--------|------|------|--------
+1.0|scroberts|2017-07-28T21:12:43.851Z|Released after March 20, 2017 updates
+
+
 ### Subsystem API: TCS
 
 TCS<br>Version | User | Date | Comment
