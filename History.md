@@ -8,6 +8,13 @@ and is automatically generated from the JSON files in the apis and icds subdirec
 
  
 
+### Subsystem API: AOESW
+
+AOESW<br>Version | User | Date | Comment
+--------|------|------|--------
+1.0|scroberts|2017-07-28T21:15:26.879Z|Release after July 17, 2017 commit
+
+
 ### Subsystem API: ESW
 
 ESW<br>Version | User | Date | Comment
