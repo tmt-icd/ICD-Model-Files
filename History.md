@@ -19,6 +19,7 @@ ESW<br>Version | User | Date | Comment
 
 IRIS<br>Version | User | Date | Comment
 --------|------|------|--------
+1.1|scroberts|2017-07-28T21:10:47.124Z|Release after merging pull request #16
 1.0|scroberts|2016-10-28T21:08:20.882Z|Initial release of API
 
 
