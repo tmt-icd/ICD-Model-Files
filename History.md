@@ -76,6 +76,7 @@ ICD<br>Version|ESW<br>Version | IRIS<br> Version | User | Date | Comment
 
 ICD<br>Version|IRIS<br>Version | TCS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
+1.1|1.2|1.2|scroberts|2017-08-22T18:23:31.999Z|Publishing IRIS-TCS ICD for IRIS PDR2
 1.0|1.0|1.0|scroberts|2016-10-29T16:12:12.201Z|Release for IRIS PDR
 
 
