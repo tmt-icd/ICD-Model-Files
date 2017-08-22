@@ -1,6 +1,12 @@
 {
   "subsystem": "TCS",
   "apis": [{
+    "commit": "7f7595c2e1ea77d226d9f2d75358146d12509781",
+    "version": "1.2",
+    "date": "2017-08-22T18:21:59.694Z",
+    "comment": "Publishing TCS API for IRIS PDR2",
+    "user": "scroberts"
+  }, {
     "commit": "defa679c065b96e0c2521803b608b76a64395177",
     "version": "1.1",
     "date": "2017-07-28T21:14:00.786Z",
