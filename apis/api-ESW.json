@@ -1,6 +1,12 @@
 {
   "subsystem": "ESW",
   "apis": [{
+    "commit": "343a6d8ea52e334624f55f8f7a42d0e3faf12809",
+    "version": "1.1",
+    "date": "2017-08-29T22:51:46.499Z",
+    "comment": "Release prior to publishing IRIS-ESW ICD",
+    "user": "scroberts"
+  }, {
     "commit": "f8b8616e11007efef4b76801e277ace19c6878dd",
     "version": "1.0",
     "date": "2016-10-28T21:10:03.234Z",
