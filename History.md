@@ -19,6 +19,7 @@ AOESW<br>Version | User | Date | Comment
 
 ESW<br>Version | User | Date | Comment
 --------|------|------|--------
+1.1|scroberts|2017-08-29T22:51:46.499Z|Release prior to publishing IRIS-ESW ICD
 1.0|scroberts|2016-10-28T21:10:03.234Z|Initial release of API
 
 
