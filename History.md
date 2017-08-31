@@ -27,6 +27,7 @@ ESW<br>Version | User | Date | Comment
 
 IRIS<br>Version | User | Date | Comment
 --------|------|------|--------
+1.4|scroberts|2017-08-31T22:08:53.891Z|Updated Release for pull request #20 prior to publishing IRIS-ESW ICD
 1.3|scroberts|2017-08-29T22:51:09.802Z|Release prior to publishing IRIS-ESW ICD
 1.2|scroberts|2017-08-22T18:21:12.201Z|Publishing IRIS API for IRIS PDR2
 1.1|scroberts|2017-07-28T21:10:47.124Z|Release after merging pull request #16
