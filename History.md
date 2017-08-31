@@ -72,6 +72,7 @@ TEST2<br>Version | User | Date | Comment
 
 ICD<br>Version|ESW<br>Version | IRIS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
+1.2|1.1|1.4|scroberts|2017-08-31T22:09:36.140Z|Release for IRIS PDR
 1.1|1.1|1.3|scroberts|2017-08-29T22:52:33.823Z|Release for IRIS PDR
 1.0|1.0|1.0|scroberts|2016-10-29T16:13:28.921Z|Release for IRIS PDR
 
