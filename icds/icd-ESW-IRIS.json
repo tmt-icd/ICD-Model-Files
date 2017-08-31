@@ -1,6 +1,12 @@
 {
   "subsystems": ["ESW", "IRIS"],
   "icds": [{
+    "versions": ["1.1", "1.4"],
+    "icdVersion": "1.2",
+    "date": "2017-08-31T22:09:36.140Z",
+    "comment": "Release for IRIS PDR",
+    "user": "scroberts"
+  }, {
     "versions": ["1.1", "1.3"],
     "icdVersion": "1.1",
     "date": "2017-08-29T22:52:33.823Z",
