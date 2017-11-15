@@ -70,6 +70,13 @@ TEST2<br>Version | User | Date | Comment
 
 
 
+### ICD between AOESW and NFIRAOS
+
+ICD<br>Version|AOESW<br>Version | NFIRAOS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.0|1.1|1.1|scroberts|2017-11-15T21:09:23.776Z|Release for NFIRAOS RTC FDR
+
+
 ### ICD between ESW and IRIS
 
 ICD<br>Version|ESW<br>Version | IRIS<br> Version | User | Date | Comment
