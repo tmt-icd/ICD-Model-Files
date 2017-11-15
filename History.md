@@ -38,6 +38,7 @@ IRIS<br>Version | User | Date | Comment
 
 NFIRAOS<br>Version | User | Date | Comment
 --------|------|------|--------
+1.1|scroberts|2017-11-15T21:02:49.915Z|API release prior to publishing NFIRAOS-AOESW ICD
 1.0|scroberts|2017-07-28T21:12:43.851Z|Released after March 20, 2017 updates
 
 
