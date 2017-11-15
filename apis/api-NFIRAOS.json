@@ -1,6 +1,12 @@
 {
   "subsystem": "NFIRAOS",
   "apis": [{
+    "commit": "b2220128d111aa0e25c44a1b500a3410bcfb68ab",
+    "version": "1.1",
+    "date": "2017-11-15T21:02:49.915Z",
+    "comment": "API release prior to publishing NFIRAOS-AOESW ICD",
+    "user": "scroberts"
+  }, {
     "commit": "ff2cce22addfc6fbdf35c063896721ce26032fa2",
     "version": "1.0",
     "date": "2017-07-28T21:12:43.851Z",
