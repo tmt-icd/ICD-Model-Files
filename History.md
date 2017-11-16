@@ -76,6 +76,7 @@ TEST2<br>Version | User | Date | Comment
 
 ICD<br>Version|AOESW<br>Version | NFIRAOS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
+1.1|1.2|1.1|scroberts|2017-11-16T00:58:47.490Z|Release for NFIRAOS RTC FDR
 1.0|1.1|1.1|scroberts|2017-11-15T21:09:23.776Z|Release for NFIRAOS RTC FDR
 
 
