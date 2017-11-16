@@ -97,6 +97,13 @@ ICD<br>Version|IRIS<br>Version | TCS<br> Version | User | Date | Comment
 1.0|1.0|1.0|scroberts|2016-10-29T16:12:12.201Z|Release for IRIS PDR
 
 
+### ICD between NFIRAOS and TCS
+
+ICD<br>Version|NFIRAOS<br>Version | TCS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.0|1.1|1.3|scroberts|2017-11-16T00:59:12.743Z|Release for NFIRAOS RTC FDR
+
+
 ### ICD between TEST and TEST2
 
 ICD<br>Version|TEST<br>Version | TEST2<br> Version | User | Date | Comment
