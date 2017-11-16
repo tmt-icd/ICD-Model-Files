@@ -1,6 +1,12 @@
 {
   "subsystem": "TCS",
   "apis": [{
+    "commit": "0af7365e5864e8c24516939e9f5678283b76749c",
+    "version": "1.3",
+    "date": "2017-11-16T00:58:14.010Z",
+    "comment": "Release for NFIRAOS RTC FDR",
+    "user": "scroberts"
+  }, {
     "commit": "7f7595c2e1ea77d226d9f2d75358146d12509781",
     "version": "1.2",
     "date": "2017-08-22T18:21:59.694Z",
