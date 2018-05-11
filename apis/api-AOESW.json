@@ -1,6 +1,12 @@
 {
   "subsystem": "AOESW",
   "apis": [{
+    "commit": "eb90e31c0ca5fbf4a75afea870ce0f814cb5df31",
+    "version": "1.3",
+    "date": "2018-05-11T15:29:11.954Z",
+    "comment": "Release for NFIRAOS FDR",
+    "user": "scroberts"
+  }, {
     "commit": "baeb3ddeed1c8194b63283dd51c6be738b9dfa6a",
     "version": "1.2",
     "date": "2017-11-16T00:55:36.357Z",
