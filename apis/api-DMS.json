@@ -1,0 +1,10 @@
+{
+  "subsystem": "DMS",
+  "apis": [{
+    "commit": "f9b257eded51a2daf1b13b28ef16a781f21882c7",
+    "version": "1.0",
+    "date": "2018-05-11T15:28:20.772Z",
+    "comment": "Release for NFIRAOS FDR",
+    "user": "scroberts"
+  }]
+}
