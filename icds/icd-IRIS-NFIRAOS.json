@@ -1,0 +1,10 @@
+{
+  "subsystems": ["IRIS", "NFIRAOS"],
+  "icds": [{
+    "versions": ["1.4", "1.2"],
+    "icdVersion": "1.0",
+    "date": "2018-05-11T15:37:56.519Z",
+    "comment": "For NFIRAOS FDR",
+    "user": "scroberts"
+  }]
+}
