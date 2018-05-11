@@ -1,6 +1,12 @@
 {
   "subsystems": ["AOESW", "NFIRAOS"],
   "icds": [{
+    "versions": ["1.3", "1.2"],
+    "icdVersion": "1.2",
+    "date": "2018-05-11T15:39:24.909Z",
+    "comment": "For NFIRAOS FDR",
+    "user": "scroberts"
+  }, {
     "versions": ["1.2", "1.1"],
     "icdVersion": "1.1",
     "date": "2017-11-16T00:58:47.490Z",
