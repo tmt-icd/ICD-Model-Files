@@ -59,6 +59,7 @@ NFIRAOS<br>Version | User | Date | Comment
 
 TCS<br>Version | User | Date | Comment
 --------|------|------|--------
+1.4|scroberts|2018-09-12T19:04:09.382Z|API release prior to ESW PDR
 1.3|scroberts|2017-11-16T00:58:14.010Z|Release for NFIRAOS RTC FDR
 1.2|scroberts|2017-08-22T18:21:59.694Z|Publishing TCS API for IRIS PDR2
 1.1|scroberts|2017-07-28T21:14:00.786Z|Release after merging pull request #3
