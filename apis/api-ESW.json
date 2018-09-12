@@ -1,6 +1,12 @@
 {
   "subsystem": "ESW",
   "apis": [{
+    "commit": "310cd9e88837157098e5b25a9f18174e6607d74c",
+    "version": "1.2",
+    "date": "2018-09-12T19:01:26.420Z",
+    "comment": "API release prior to ESW PDR",
+    "user": "scroberts"
+  }, {
     "commit": "343a6d8ea52e334624f55f8f7a42d0e3faf12809",
     "version": "1.1",
     "date": "2017-08-29T22:51:46.499Z",
