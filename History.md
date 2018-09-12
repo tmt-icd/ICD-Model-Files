@@ -116,6 +116,13 @@ ICD<br>Version|ESW<br>Version | IRIS<br> Version | User | Date | Comment
 1.0|1.0|1.0|scroberts|2016-10-29T16:13:28.921Z|Release for IRIS PDR
 
 
+### ICD between ESW and TCS
+
+ICD<br>Version|ESW<br>Version | TCS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.0|1.2|1.4|scroberts|2018-09-12T19:19:44.888Z|Publishing TCS-ESW ICD for ESW PDR
+
+
 ### ICD between IRIS and NFIRAOS
 
 ICD<br>Version|IRIS<br>Version | NFIRAOS<br> Version | User | Date | Comment
