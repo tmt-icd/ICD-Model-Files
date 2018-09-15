@@ -127,7 +127,6 @@ ICD<br>Version|ESW<br>Version | IRIS<br> Version | User | Date | Comment
 
 ICD<br>Version|ESW<br>Version | OSS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
-1.0|1.2|1.0|scroberts|2018-09-14T20:12:16.603Z|ICD Release for ESW PDR
 
 
 ### ICD between ESW and TCS
