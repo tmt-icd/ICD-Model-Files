@@ -1,10 +1,4 @@
 {
   "subsystems": ["ESW", "OSS"],
-  "icds": [{
-    "versions": ["1.2", "1.0"],
-    "icdVersion": "1.0",
-    "date": "2018-09-14T20:12:16.603Z",
-    "comment": "ICD Release for ESW PDR",
-    "user": "scroberts"
-  }]
+  "icds": []
 }
