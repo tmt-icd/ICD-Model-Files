@@ -59,6 +59,7 @@ NFIRAOS<br>Version | User | Date | Comment
 
 OSS<br>Version | User | Date | Comment
 --------|------|------|--------
+1.0|scroberts|2018-09-15T16:03:47.402Z|OSS API release for ESW PDR
 
 
 ### Subsystem API: TCS
