@@ -1,10 +1,4 @@
 {
   "subsystem": "OSS",
-  "apis": [{
-    "commit": "87cf52b2a7a386374677586074627295310fee6d",
-    "version": "1.0",
-    "date": "2018-09-14T20:11:02.879Z",
-    "comment": "API release for ESW PDR",
-    "user": "scroberts"
-  }]
+  "apis": []
 }
