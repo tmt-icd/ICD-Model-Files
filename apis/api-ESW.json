@@ -1,6 +1,12 @@
 {
   "subsystem": "ESW",
   "apis": [{
+    "commit": "072584294fc86cd83232060a7dd8a73c84a5045b",
+    "version": "1.3",
+    "date": "2018-09-18T16:34:30.611Z",
+    "comment": "For release of OSS-ESW ICD",
+    "user": "scroberts"
+  }, {
     "commit": "310cd9e88837157098e5b25a9f18174e6607d74c",
     "version": "1.2",
     "date": "2018-09-12T19:01:26.420Z",
