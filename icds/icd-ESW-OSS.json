@@ -1,6 +1,12 @@
 {
   "subsystems": ["ESW", "OSS"],
   "icds": [{
+    "versions": ["1.3", "1.0"],
+    "icdVersion": "1.1",
+    "date": "2018-09-18T16:35:46.240Z",
+    "comment": "Published for ESW PDR",
+    "user": "scroberts"
+  }, {
     "versions": ["1.2", "1.0"],
     "icdVersion": "1.0",
     "date": "2018-09-15T16:12:56.719Z",
