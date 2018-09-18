@@ -128,6 +128,7 @@ ICD<br>Version|ESW<br>Version | IRIS<br> Version | User | Date | Comment
 
 ICD<br>Version|ESW<br>Version | OSS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
+1.1|1.3|1.0|scroberts|2018-09-18T16:35:46.240Z|Published for ESW PDR
 1.0|1.2|1.0|scroberts|2018-09-15T16:12:56.719Z|ICD release for ESW PDR
 
 
