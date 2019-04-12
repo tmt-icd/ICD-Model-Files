@@ -1,6 +1,12 @@
 {
   "subsystem": "NFIRAOS",
   "apis": [{
+    "commit": "1726dccfb393a4a73422df26f6f8ea8a3132df7c",
+    "version": "1.3",
+    "date": "2019-04-12T09:11:49.074Z",
+    "comment": "Published new NFIRAOS API as requested by Jason",
+    "user": "abrighton"
+  }, {
     "commit": "48579ae6c55811e4cb5cbeb1429db3060300447d",
     "version": "1.2",
     "date": "2018-05-11T15:26:45.594Z",
