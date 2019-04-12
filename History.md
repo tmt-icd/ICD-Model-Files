@@ -158,6 +158,7 @@ ICD<br>Version|TEST<br>Version | TEST2<br> Version | User | Date | Comment
 
 ICD<br>Version|AOESW<br>Version | NFIRAOS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
+1.3|1.5|1.3|abrighton|2019-04-12T09:12:07.435Z|Published new AOESW-NFIRAOS ICD as requested by Jason
 1.2|1.3|1.2|scroberts|2018-05-11T15:39:24.909Z|For NFIRAOS FDR
 1.1|1.2|1.1|scroberts|2017-11-16T00:58:47.490Z|Release for NFIRAOS RTC FDR
 1.0|1.1|1.1|scroberts|2017-11-15T21:09:23.776Z|Release for NFIRAOS RTC FDR
