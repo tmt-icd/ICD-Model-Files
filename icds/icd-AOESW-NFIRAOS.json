@@ -1,6 +1,12 @@
 {
   "subsystems": ["AOESW", "NFIRAOS"],
   "icds": [{
+    "versions": ["1.5", "1.3"],
+    "icdVersion": "1.3",
+    "date": "2019-04-12T09:12:07.435Z",
+    "comment": "Published new AOESW-NFIRAOS ICD as requested by Jason",
+    "user": "abrighton"
+  }, {
     "versions": ["1.3", "1.2"],
     "icdVersion": "1.2",
     "date": "2018-05-11T15:39:24.909Z",
