@@ -1,5 +1,4 @@
-Root repository for ICD model files
-===================================
+# Repository holding Version Information for ICD model files
 
 The GitHub site [tmt-icd](https://github.com/tmt-icd) contains a number of repositories holding TMT interface control document (ICD) model files. 
 It contains a Git repository for each TMT subsystem.
