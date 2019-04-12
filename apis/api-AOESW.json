@@ -1,6 +1,12 @@
 {
   "subsystem": "AOESW",
   "apis": [{
+    "commit": "764e028ad65a547ccca66fe8eead01d5c94d83d1",
+    "version": "1.5",
+    "date": "2019-04-12T09:11:36.145Z",
+    "comment": "Published new AOESW API as requested by Jason",
+    "user": "abrighton"
+  }, {
     "commit": "a04a3af56690226fd0768538437fc04e3be3460a",
     "version": "1.4",
     "date": "2018-09-12T19:03:22.426Z",
