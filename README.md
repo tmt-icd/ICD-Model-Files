@@ -1,8 +1,8 @@
 Root repository for ICD model files
 ===================================
 
-This is the root repository for TMT interface control document (ICD) model files. 
-It contains a Git submodule for each TMT subsystem.
+The GitHub site [tmt-icd](https://github.com/tmt-icd) contains a number of repositories holding TMT interface control document (ICD) model files. 
+It contains a Git repository for each TMT subsystem.
 
 *For an overview of the TMT ICD workflow [see here](Workflow.md).*
 
@@ -10,43 +10,18 @@ ICD model files describe the APIs for TMT subsystems in a format defined by the 
 software (based on [HOCON](https://github.com/typesafehub/config/blob/master/HOCON.md), a simplified form of JSON).
 The model files are validated by the software using [JSON Schema](http://json-schema.org/).
 
-You can use the `icd-ingest.sh` script in the [icd](https://github.com/tmtsoftware/icd) project to import the contents of
-this repository, with version history, into the ICD database.
+You can use the [icd-git](https://github.com/tmtsoftware/icd/icd-git) command to import the APIs and ICDs for a selected subsystem (or all subsystems),
+with version history, into the ICD database.
 
-Warning: The icd-ingest.sh script will delete the current contents of the ICD database before
+Warning: The `icd-git` command will delete the current contents of the local ICD database before
 ingesting the files from the repository.
 
-The icd software looks for release tags in the Git submodules.
-Git subsystem releases should have names like "v1.0", "v1.2", "v2.0", etc.
-These then translate into published versions in the ICD database: "1.0", "1.1", "2.0".
 
-How to use Git with this repository
------------------------------------
+Publishing a subsystem API or ICD with `icd-git` creates an entry in a JSON file under the [./apis](apis) or [./icds](icds) directory. 
+These files should not be manually edited. They are used to store version related information.
 
-See [here](Git.md) for a detailed description of the Git commands used to manage the ICD repositories.
-If you are working on subsystem ICD model files, the following commands can be used:
+An ICD version is defined by an entry in a JSON formatted file named *icd-$subsytem1-$subsystem2.json* which is stored in the icds subdirectory of this repository.
+The file lists the two subsystems that make up the ICD, the ICD version, the versions of the two subsystems along with the user name of the user that created the version, a comment and the date.
 
-In order to check out the top level repository with the submodules you need to add the --recursive flag, like this:
-
-```
-  git clone --recursive https://github.com/tmtsoftware/ICD-Model-Files.git
-```
-
-To update the repository later to get the latest changes:
-```
-  git pull
-  git submodule foreach git pull origin master
-```
-
-The second line iterates through all the git submodules and runs "git pull origin master" on each.
-
-Note that it is not necessary to check out the top level repository. If you are only interested in a few
-different subsystems, you can check out the repositories for those and work with them in the usual way,
-pushing any changes when ready:
-
-```
-  git clone https://github.com/tmtsoftware/TCS-Model-Files.git
-  git clone https://github.com/tmtsoftware/WFOS-Model-Files.git
-  ...
-```
+See the [icd](https://github.com/tmtsoftware/icd) project and [icd-git](https://github.com/tmtsoftware/icd/icd-git) subproject for more information.
 
