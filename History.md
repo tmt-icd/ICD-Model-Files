@@ -115,6 +115,7 @@ ICD<br>Version|ESW<br>Version | IRIS<br> Version | User | Date | Comment
 
 ICD<br>Version|IRIS<br>Version | NFIRAOS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
+1.1|1.5|1.3|abrighton|2019-04-18T22:40:22.061Z|Published by request from Gelys
 1.0|1.4|1.2|scroberts|2018-05-11T15:37:56.519Z|For NFIRAOS FDR
 
 
