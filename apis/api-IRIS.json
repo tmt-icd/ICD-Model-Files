@@ -1,6 +1,12 @@
 {
   "subsystem": "IRIS",
   "apis": [{
+    "commit": "fa00b10b4abf0c611946a5ff5c09db7aee76d3e1",
+    "version": "1.5",
+    "date": "2019-04-18T22:36:53.836Z",
+    "comment": "Published by request from Gelys",
+    "user": "abrighton"
+  }, {
     "commit": "f6e2542cb34c49f67ca8cf8079a5d4d9f9c3d01c",
     "version": "1.4",
     "date": "2017-08-31T22:08:53.891Z",
