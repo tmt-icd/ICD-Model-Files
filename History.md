@@ -49,6 +49,7 @@ AOESW<br>Version | User | Date | Comment
 
 IRIS<br>Version | User | Date | Comment
 --------|------|------|--------
+1.5|abrighton|2019-04-18T22:36:53.836Z|Published by request from Gelys
 1.4|scroberts|2017-08-31T22:08:53.891Z|Updated Release for pull request #20 prior to publishing IRIS-ESW ICD
 1.3|scroberts|2017-08-29T22:51:09.802Z|Release prior to publishing IRIS-ESW ICD
 1.2|scroberts|2017-08-22T18:21:12.201Z|Publishing IRIS API for IRIS PDR2
