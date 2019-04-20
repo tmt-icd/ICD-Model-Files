@@ -1,6 +1,12 @@
 {
   "subsystem": "ESW",
   "apis": [{
+    "commit": "c81a7032f070ac8b651c4843546fc1f2ada549ed",
+    "version": "1.4",
+    "date": "2019-04-20T20:23:42.957Z",
+    "comment": "Published new ESW API as requested by Jason",
+    "user": "abrighton"
+  }, {
     "commit": "072584294fc86cd83232060a7dd8a73c84a5045b",
     "version": "1.3",
     "date": "2018-09-18T16:34:30.611Z",
