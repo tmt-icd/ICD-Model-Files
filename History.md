@@ -69,6 +69,7 @@ TEST2<br>Version | User | Date | Comment
 
 ESW<br>Version | User | Date | Comment
 --------|------|------|--------
+1.4|abrighton|2019-04-20T20:23:42.957Z|Published new ESW API as requested by Jason
 1.3|scroberts|2018-09-18T16:34:30.611Z|For release of OSS-ESW ICD
 1.2|scroberts|2018-09-12T19:01:26.420Z|API release prior to ESW PDR
 1.1|scroberts|2017-08-29T22:51:46.499Z|Release prior to publishing IRIS-ESW ICD
