@@ -124,6 +124,7 @@ ICD<br>Version|IRIS<br>Version | NFIRAOS<br> Version | User | Date | Comment
 
 ICD<br>Version|AOESW<br>Version | ESW<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
+1.1|1.5|1.4|abrighton|2019-04-20T20:24:06.726Z|Published new AOESW-ESW ICD as requested by Jason
 1.0|1.4|1.2|scroberts|2018-09-12T19:19:04.138Z|Publishing AOESW-ESW ICD for ESW PDR
 
 
