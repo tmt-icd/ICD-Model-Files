@@ -1,6 +1,12 @@
 {
   "subsystems": ["AOESW", "ESW"],
   "icds": [{
+    "versions": ["1.5", "1.4"],
+    "icdVersion": "1.1",
+    "date": "2019-04-20T20:24:06.726Z",
+    "comment": "Published new AOESW-ESW ICD as requested by Jason",
+    "user": "abrighton"
+  }, {
     "versions": ["1.4", "1.2"],
     "icdVersion": "1.0",
     "date": "2018-09-12T19:19:04.138Z",
