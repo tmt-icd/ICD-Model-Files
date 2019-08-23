@@ -1,0 +1,10 @@
+{
+  "apis": [{
+    "comment": "Published new M1CS API as requested by Jimmy Johnson",
+    "commit": "e88c6a273f3d4c7e5afe427eaedabf9c7d2683bb",
+    "date": "2019-08-23T20:33:25.576Z",
+    "user": "abrighton",
+    "version": "1.0"
+  }],
+  "subsystem": "M1CS"
+}
