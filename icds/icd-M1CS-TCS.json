@@ -1,0 +1,10 @@
+{
+  "icds": [{
+    "comment": "Published new M1CS-TCS ICD as requested by Jimmy Johnson",
+    "date": "2019-08-23T20:33:32.648Z",
+    "icdVersion": "1.0",
+    "user": "abrighton",
+    "versions": ["1.0", "1.5"]
+  }],
+  "subsystems": ["M1CS", "TCS"]
+}
