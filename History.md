@@ -8,13 +8,6 @@ and is automatically generated from the JSON files in the apis and icds subdirec
 
  
 
-### Subsystem API: M1CS
-
-M1CS<br>Version | User | Date | Comment
---------|------|------|--------
-1.0|abrighton|2019-08-23T20:33:25.576Z|Published new M1CS API as requested by Jimmy Johnson
-
-
 ### Subsystem API: TEST
 
 TEST<br>Version | User | Date | Comment
@@ -84,6 +77,13 @@ OSS<br>Version | User | Date | Comment
 1.0|scroberts|2018-09-15T16:03:47.402Z|OSS API release for ESW PDR
 
 
+### Subsystem API: M1CS
+
+M1CS<br>Version | User | Date | Comment
+--------|------|------|--------
+1.0|abrighton|2019-08-23T20:33:25.576Z|Published new M1CS API as requested by Jimmy Johnson
+
+
 ### Subsystem API: NFIRAOS
 
 NFIRAOS<br>Version | User | Date | Comment
@@ -95,6 +95,13 @@ NFIRAOS<br>Version | User | Date | Comment
 
 ## ICD Release History
 
+
+
+### ICD between M1CS and TCS
+
+ICD<br>Version|M1CS<br>Version | TCS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.0|1.0|1.5|abrighton|2019-08-23T20:33:32.648Z|Published new M1CS-TCS ICD as requested by Jimmy Johnson
 
 
 ### ICD between NFIRAOS and TCS
