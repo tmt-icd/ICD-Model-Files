@@ -8,6 +8,13 @@ and is automatically generated from the JSON files in the apis and icds subdirec
 
  
 
+### Subsystem API: M1CS
+
+M1CS<br>Version | User | Date | Comment
+--------|------|------|--------
+1.0|abrighton|2019-08-23T20:33:25.576Z|Published new M1CS API as requested by Jimmy Johnson
+
+
 ### Subsystem API: TEST
 
 TEST<br>Version | User | Date | Comment
