@@ -1,0 +1,10 @@
+{
+  "subsystem": "APS",
+  "apis": [{
+    "commit": "e3e44b914dfb40d77eb2ef8f91435f5a2696a994",
+    "version": "1.0",
+    "date": "2019-08-26T08:07:00.876Z",
+    "comment": "Published new APS API as requested by Jimmy Johnson",
+    "user": "abrighton"
+  }]
+}
