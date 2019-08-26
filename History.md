@@ -105,6 +105,13 @@ NFIRAOS<br>Version | User | Date | Comment
 
 
 
+### ICD between APS and TCS
+
+ICD<br>Version|APS<br>Version | TCS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.0|1.0|1.6|abrighton|2019-08-26T08:07:14.867Z|Published new APS-TCS ICD as requested by Jimmy Johnson
+
+
 ### ICD between NFIRAOS and TCS
 
 ICD<br>Version|NFIRAOS<br>Version | TCS<br> Version | User | Date | Comment
