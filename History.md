@@ -134,6 +134,7 @@ ICD<br>Version|ESW<br>Version | IRIS<br> Version | User | Date | Comment
 
 ICD<br>Version|M1CS<br>Version | TCS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
+1.1|1.1|1.7|abrighton|2019-08-26T12:37:27.337Z|Published new M1CS-TCS ICD as requested by Jimmy Johnson
 1.0|1.0|1.5|abrighton|2019-08-23T20:33:32.648Z|Published new M1CS-TCS ICD as requested by Jimmy Johnson
 
 
