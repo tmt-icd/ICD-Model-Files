@@ -8,13 +8,6 @@ and is automatically generated from the JSON files in the apis and icds subdirec
 
  
 
-### Subsystem API: APS
-
-APS<br>Version | User | Date | Comment
---------|------|------|--------
-1.0|abrighton|2019-08-26T08:07:00.876Z|Published new APS API as requested by Jimmy Johnson
-
-
 ### Subsystem API: TEST
 
 TEST<br>Version | User | Date | Comment
@@ -26,6 +19,7 @@ TEST<br>Version | User | Date | Comment
 
 TCS<br>Version | User | Date | Comment
 --------|------|------|--------
+1.6|abrighton|2019-08-26T08:07:08.077Z|Published new TCS API as requested by Jimmy Johnson
 1.5|abrighton|2019-08-23T20:33:18.080Z|Published new TCS API as requested by Jimmy Johnson
 1.4|scroberts|2018-09-12T19:04:09.382Z|API release prior to ESW PDR
 1.3|scroberts|2017-11-16T00:58:14.010Z|Release for NFIRAOS RTC FDR
@@ -89,6 +83,13 @@ OSS<br>Version | User | Date | Comment
 M1CS<br>Version | User | Date | Comment
 --------|------|------|--------
 1.0|abrighton|2019-08-23T20:33:25.576Z|Published new M1CS API as requested by Jimmy Johnson
+
+
+### Subsystem API: APS
+
+APS<br>Version | User | Date | Comment
+--------|------|------|--------
+1.0|abrighton|2019-08-26T08:07:00.876Z|Published new APS API as requested by Jimmy Johnson
 
 
 ### Subsystem API: NFIRAOS
