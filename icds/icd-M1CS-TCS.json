@@ -1,10 +1,16 @@
 {
+  "subsystems": ["M1CS", "TCS"],
   "icds": [{
+    "versions": ["1.1", "1.7"],
+    "icdVersion": "1.1",
+    "date": "2019-08-26T12:37:27.337Z",
     "comment": "Published new M1CS-TCS ICD as requested by Jimmy Johnson",
-    "date": "2019-08-23T20:33:32.648Z",
+    "user": "abrighton"
+  }, {
+    "versions": ["1.0", "1.5"],
     "icdVersion": "1.0",
-    "user": "abrighton",
-    "versions": ["1.0", "1.5"]
-  }],
-  "subsystems": ["M1CS", "TCS"]
+    "date": "2019-08-23T20:33:32.648Z",
+    "comment": "Published new M1CS-TCS ICD as requested by Jimmy Johnson",
+    "user": "abrighton"
+  }]
 }
