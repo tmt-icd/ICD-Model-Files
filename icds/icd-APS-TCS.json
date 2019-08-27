@@ -1,6 +1,12 @@
 {
   "subsystems": ["APS", "TCS"],
   "icds": [{
+    "versions": ["1.1", "1.9"],
+    "icdVersion": "1.2",
+    "date": "2019-08-27T22:05:12.178Z",
+    "comment": "Published new APS-TCS ICD as requested by Jimmy Johnson",
+    "user": "abrighton"
+  }, {
     "versions": ["1.0", "1.8"],
     "icdVersion": "1.1",
     "date": "2019-08-27T19:28:50.757Z",
