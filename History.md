@@ -119,6 +119,7 @@ ICD<br>Version|NFIRAOS<br>Version | TCS<br> Version | User | Date | Comment
 
 ICD<br>Version|APS<br>Version | TCS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
+1.1|1.0|1.8|abrighton|2019-08-27T19:28:50.757Z|Published new APS-TCS ICD as requested by Jimmy Johnson
 1.0|1.0|1.6|abrighton|2019-08-26T08:07:14.867Z|Published new APS-TCS ICD as requested by Jimmy Johnson
 
 
