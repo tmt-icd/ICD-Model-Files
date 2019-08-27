@@ -92,6 +92,7 @@ OSS<br>Version | User | Date | Comment
 
 APS<br>Version | User | Date | Comment
 --------|------|------|--------
+1.1|abrighton|2019-08-27T22:04:58.239Z|Published new APS API as requested by Jimmy Johnson
 1.0|abrighton|2019-08-26T08:07:00.876Z|Published new APS API as requested by Jimmy Johnson
 
 
