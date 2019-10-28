@@ -1,70 +1,64 @@
 {
-  "subsystem": "TCS",
-  "apis": [{
-    "commit": "3d1c657240a01e32efeb5229d388dcd4adb2ec09",
-    "version": "1.10",
-    "date": "2019-10-28T23:08:05.073Z",
-    "comment": "Published new TCS API as requested by Scott Michaels",
-    "user": "abrighton"
+  "subsystem" : "TCS",
+  "apis" : [ {
+    "version" : "1.9",
+    "commit" : "040983ebea30663e840806a3888155af7e9e3e65",
+    "user" : "abrighton",
+    "comment" : "Published new TCS API as requested by Jimmy Johnson",
+    "date" : "2019-08-27T22:05:05.293Z"
   }, {
-    "commit": "040983ebea30663e840806a3888155af7e9e3e65",
-    "version": "1.9",
-    "date": "2019-08-27T22:05:05.293Z",
-    "comment": "Published new TCS API as requested by Jimmy Johnson",
-    "user": "abrighton"
+    "version" : "1.8",
+    "commit" : "5cdf2df03e373bf2a135cd01fe7f29d15e96a147",
+    "user" : "abrighton",
+    "comment" : "Published new TCS API as requested by Jimmy Johnson",
+    "date" : "2019-08-27T19:28:43.828Z"
   }, {
-    "commit": "5cdf2df03e373bf2a135cd01fe7f29d15e96a147",
-    "version": "1.8",
-    "date": "2019-08-27T19:28:43.828Z",
-    "comment": "Published new TCS API as requested by Jimmy Johnson",
-    "user": "abrighton"
+    "version" : "1.7",
+    "commit" : "b7cab7b5df0fb1b4d8df1ae3bd979ff0f55aebd9",
+    "user" : "abrighton",
+    "comment" : "Published new TCS API as requested by Jimmy Johnson",
+    "date" : "2019-08-26T12:37:11.912Z"
   }, {
-    "commit": "b7cab7b5df0fb1b4d8df1ae3bd979ff0f55aebd9",
-    "version": "1.7",
-    "date": "2019-08-26T12:37:11.912Z",
-    "comment": "Published new TCS API as requested by Jimmy Johnson",
-    "user": "abrighton"
+    "version" : "1.6",
+    "commit" : "d7e354925ae64edcf1f9d61d4038a4af45083aeb",
+    "user" : "abrighton",
+    "comment" : "Published new TCS API as requested by Jimmy Johnson",
+    "date" : "2019-08-26T08:07:08.077Z"
   }, {
-    "commit": "d7e354925ae64edcf1f9d61d4038a4af45083aeb",
-    "version": "1.6",
-    "date": "2019-08-26T08:07:08.077Z",
-    "comment": "Published new TCS API as requested by Jimmy Johnson",
-    "user": "abrighton"
+    "version" : "1.5",
+    "commit" : "5f1513658f303bf1a42a4d0ec46d62dfc74f0954",
+    "user" : "abrighton",
+    "comment" : "Published new TCS API as requested by Jimmy Johnson",
+    "date" : "2019-08-23T20:33:18.080Z"
   }, {
-    "commit": "5f1513658f303bf1a42a4d0ec46d62dfc74f0954",
-    "version": "1.5",
-    "date": "2019-08-23T20:33:18.080Z",
-    "comment": "Published new TCS API as requested by Jimmy Johnson",
-    "user": "abrighton"
+    "version" : "1.4",
+    "commit" : "8da9d13ed5685bf0c15df7269a9cf1523efbde05",
+    "user" : "scroberts",
+    "comment" : "API release prior to ESW PDR",
+    "date" : "2018-09-12T19:04:09.382Z"
   }, {
-    "commit": "8da9d13ed5685bf0c15df7269a9cf1523efbde05",
-    "version": "1.4",
-    "date": "2018-09-12T19:04:09.382Z",
-    "comment": "API release prior to ESW PDR",
-    "user": "scroberts"
+    "version" : "1.3",
+    "commit" : "0af7365e5864e8c24516939e9f5678283b76749c",
+    "user" : "scroberts",
+    "comment" : "Release for NFIRAOS RTC FDR",
+    "date" : "2017-11-16T00:58:14.010Z"
   }, {
-    "commit": "0af7365e5864e8c24516939e9f5678283b76749c",
-    "version": "1.3",
-    "date": "2017-11-16T00:58:14.010Z",
-    "comment": "Release for NFIRAOS RTC FDR",
-    "user": "scroberts"
+    "version" : "1.2",
+    "commit" : "7f7595c2e1ea77d226d9f2d75358146d12509781",
+    "user" : "scroberts",
+    "comment" : "Publishing TCS API for IRIS PDR2",
+    "date" : "2017-08-22T18:21:59.694Z"
   }, {
-    "commit": "7f7595c2e1ea77d226d9f2d75358146d12509781",
-    "version": "1.2",
-    "date": "2017-08-22T18:21:59.694Z",
-    "comment": "Publishing TCS API for IRIS PDR2",
-    "user": "scroberts"
+    "version" : "1.1",
+    "commit" : "defa679c065b96e0c2521803b608b76a64395177",
+    "user" : "scroberts",
+    "comment" : "Release after merging pull request #3",
+    "date" : "2017-07-28T21:14:00.786Z"
   }, {
-    "commit": "defa679c065b96e0c2521803b608b76a64395177",
-    "version": "1.1",
-    "date": "2017-07-28T21:14:00.786Z",
-    "comment": "Release after merging pull request #3",
-    "user": "scroberts"
-  }, {
-    "commit": "4eb21a27503327eecfd5537c02a8c6e67d6d6a16",
-    "version": "1.0",
-    "date": "2016-10-28T21:09:16.667Z",
-    "comment": "Initial release of API",
-    "user": "scroberts"
-  }]
+    "version" : "1.0",
+    "commit" : "4eb21a27503327eecfd5537c02a8c6e67d6d6a16",
+    "user" : "scroberts",
+    "comment" : "Initial release of API",
+    "date" : "2016-10-28T21:09:16.667Z"
+  } ]
 }
