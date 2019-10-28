@@ -8,13 +8,6 @@ and is automatically generated from the JSON files in the apis and icds subdirec
 
  
 
-### Subsystem API: ESEN
-
-ESEN<br>Version | User | Date | Comment
---------|------|------|--------
-1.0|abrighton|2019-10-28T22:46:11.146Z|Published new TCS API as requested by Scott Michaels
-
-
 ### Subsystem API: TEST
 
 TEST<br>Version | User | Date | Comment
@@ -56,6 +49,13 @@ M1CS<br>Version | User | Date | Comment
 --------|------|------|--------
 1.1|abrighton|2019-08-26T12:37:19.505Z|Published new M1CS API as requested by Jimmy Johnson
 1.0|abrighton|2019-08-23T20:33:25.576Z|Published new M1CS API as requested by Jimmy Johnson
+
+
+### Subsystem API: ESEN
+
+ESEN<br>Version | User | Date | Comment
+--------|------|------|--------
+1.0|abrighton|2019-10-28T22:46:11.146Z|Published new TCS API as requested by Scott Michaels
 
 
 ### Subsystem API: AOESW
@@ -116,6 +116,13 @@ NFIRAOS<br>Version | User | Date | Comment
 
 ## ICD Release History
 
+
+
+### ICD between ESEN and TCS
+
+ICD<br>Version|ESEN<br>Version | TCS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.0|1.0|1.10|abrighton|2019-10-28T22:46:23.351Z|Published new ESEN-TCS ICD as requested by Scott Michaels
 
 
 ### ICD between NFIRAOS and TCS
