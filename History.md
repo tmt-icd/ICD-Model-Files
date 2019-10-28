@@ -19,7 +19,6 @@ TEST<br>Version | User | Date | Comment
 
 TCS<br>Version | User | Date | Comment
 --------|------|------|--------
-1.10|abrighton|2019-10-28T22:45:49.311Z|Published new TCS API as requested by Scott Michaels
 1.9|abrighton|2019-08-27T22:05:05.293Z|Published new TCS API as requested by Jimmy Johnson
 1.8|abrighton|2019-08-27T19:28:43.828Z|Published new TCS API as requested by Jimmy Johnson
 1.7|abrighton|2019-08-26T12:37:11.912Z|Published new TCS API as requested by Jimmy Johnson
@@ -118,18 +117,18 @@ NFIRAOS<br>Version | User | Date | Comment
 
 
 
-### ICD between ESEN and TCS
-
-ICD<br>Version|ESEN<br>Version | TCS<br> Version | User | Date | Comment
---------|--------|------|------|--------|--------
-1.0|1.0|1.10|abrighton|2019-10-28T22:46:23.351Z|Published new ESEN-TCS ICD as requested by Scott Michaels
-
-
 ### ICD between NFIRAOS and TCS
 
 ICD<br>Version|NFIRAOS<br>Version | TCS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
 1.0|1.1|1.3|scroberts|2017-11-16T00:59:12.743Z|Release for NFIRAOS RTC FDR
+
+
+### ICD between ESEN and TCS
+
+ICD<br>Version|ESEN<br>Version | TCS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.0|1.0|1.10|abrighton|2019-10-28T22:46:23.351Z|Published new ESEN-TCS ICD as requested by Scott Michaels
 
 
 ### ICD between APS and TCS
