@@ -1,0 +1,10 @@
+{
+  "subsystem": "ESEN",
+  "apis": [{
+    "commit": "6b871539ec18de946b692f12179a7ac33cbd153b",
+    "version": "1.0",
+    "date": "2019-10-28T22:46:11.146Z",
+    "comment": "Published new TCS API as requested by Scott Michaels",
+    "user": "abrighton"
+  }]
+}
