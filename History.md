@@ -19,6 +19,7 @@ TEST<br>Version | User | Date | Comment
 
 TCS<br>Version | User | Date | Comment
 --------|------|------|--------
+1.10|abrighton|2019-10-28T23:08:05.073Z|Published new TCS API as requested by Scott Michaels
 1.9|abrighton|2019-08-27T22:05:05.293Z|Published new TCS API as requested by Jimmy Johnson
 1.8|abrighton|2019-08-27T19:28:43.828Z|Published new TCS API as requested by Jimmy Johnson
 1.7|abrighton|2019-08-26T12:37:11.912Z|Published new TCS API as requested by Jimmy Johnson
