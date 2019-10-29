@@ -1,4 +1,10 @@
 {
-  "subsystems": ["ESEN", "TCS"],
-  "icds": []
+  "subsystems" : [ "ESEN", "TCS" ],
+  "icds" : [ {
+    "icdVersion" : "1.0",
+    "versions" : [ "1.0", "1.10" ],
+    "user" : "abrighton",
+    "comment" : "Published new ESEN-TCS ICD as requested by Scott Michaels",
+    "date" : "2019-10-29T11:22:36.189Z"
+  } ]
 }
