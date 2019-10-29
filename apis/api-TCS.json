@@ -1,6 +1,12 @@
 {
   "subsystem" : "TCS",
   "apis" : [ {
+    "version" : "1.10",
+    "commit" : "3f86ea91eca39abe3dc27e5d1a5d4e34dd8d6ad2",
+    "user" : "abrighton",
+    "comment" : "Published new TCS API as requested by Scott Michaels",
+    "date" : "2019-10-29T11:22:12.996Z"
+  }, {
     "version" : "1.9",
     "commit" : "040983ebea30663e840806a3888155af7e9e3e65",
     "user" : "abrighton",
