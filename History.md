@@ -55,7 +55,6 @@ M1CS<br>Version | User | Date | Comment
 
 ESEN<br>Version | User | Date | Comment
 --------|------|------|--------
-1.1|abrighton|2019-11-05T11:28:17.908Z|Published new ESEN API as requested by Scott Michaels
 1.0|abrighton|2019-10-28T22:46:11.146Z|Published new TCS API as requested by Scott Michaels
 
 
