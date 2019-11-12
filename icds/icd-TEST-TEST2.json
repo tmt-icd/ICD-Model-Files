@@ -1,4 +1,10 @@
 {
   "subsystems" : [ "TEST", "TEST2" ],
-  "icds" : [ ]
+  "icds" : [ {
+    "icdVersion" : "1.0",
+    "versions" : [ "1.0", "1.0" ],
+    "user" : "abrighton",
+    "comment" : "Published new TEST-TEST2 ICD",
+    "date" : "2019-11-12T22:50:26.751Z"
+  } ]
 }
