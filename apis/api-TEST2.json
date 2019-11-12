@@ -1,10 +1,4 @@
 {
   "subsystem" : "TEST2",
-  "apis" : [ {
-    "version" : "1.0",
-    "commit" : "df35ed8d2c9fb81ff3125eeb797ea6fc81987247",
-    "user" : "abrighton",
-    "comment" : "Test icd-git publish feature",
-    "date" : "2016-08-24T07:39:25.592Z"
-  } ]
+  "apis" : [ ]
 }
