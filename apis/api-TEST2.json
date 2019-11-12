@@ -1,16 +1,10 @@
 {
-  "subsystem": "TEST2",
-  "apis": [{
-    "commit": "2cb3eda749128b357835e0d088453b877c4508c1",
-    "version": "1.1",
-    "date": "2016-09-08T18:28:11.907Z",
-    "comment": "Scott's update",
-    "user": "scroberts"
-  }, {
-    "commit": "df35ed8d2c9fb81ff3125eeb797ea6fc81987247",
-    "version": "1.0",
-    "date": "2016-08-24T07:39:25.592Z",
-    "comment": "Test icd-git publish feature",
-    "user": "abrighton"
-  }]
+  "subsystem" : "TEST2",
+  "apis" : [ {
+    "version" : "1.0",
+    "commit" : "df35ed8d2c9fb81ff3125eeb797ea6fc81987247",
+    "user" : "abrighton",
+    "comment" : "Test icd-git publish feature",
+    "date" : "2016-08-24T07:39:25.592Z"
+  } ]
 }
