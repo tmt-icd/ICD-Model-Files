@@ -215,5 +215,4 @@ ICD<br>Version|NFIRAOS<br>Version | TCS<br> Version | User | Date | Comment
 
 ICD<br>Version|TEST<br>Version | TEST2<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
-1.1|1.0|1.1|scroberts|2016-09-08T18:39:05.077Z|Scott's comment
 1.0|1.0|1.0|abrighton|2016-08-24T07:39:59.315Z|Test icd-git publish feature for ICD
