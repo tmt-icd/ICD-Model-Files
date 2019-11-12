@@ -1,16 +1,22 @@
 {
-  "subsystems": ["TEST", "TEST2"],
-  "icds": [{
-    "versions": ["1.0", "1.1"],
-    "icdVersion": "1.1",
-    "date": "2016-09-08T18:39:05.077Z",
-    "comment": "Scott's comment",
-    "user": "scroberts"
+  "subsystems" : [ "TEST", "TEST2" ],
+  "icds" : [ {
+    "icdVersion" : "1.2",
+    "versions" : [ "1.1", "1.1" ],
+    "user" : "abrighton",
+    "comment" : "Test publishing icd",
+    "date" : "2019-11-12T11:50:42.356Z"
   }, {
-    "versions": ["1.0", "1.0"],
-    "icdVersion": "1.0",
-    "date": "2016-08-24T07:39:59.315Z",
-    "comment": "Test icd-git publish feature for ICD",
-    "user": "abrighton"
-  }]
+    "icdVersion" : "1.1",
+    "versions" : [ "1.0", "1.1" ],
+    "user" : "scroberts",
+    "comment" : "Scott's comment",
+    "date" : "2016-09-08T18:39:05.077Z"
+  }, {
+    "icdVersion" : "1.0",
+    "versions" : [ "1.0", "1.0" ],
+    "user" : "abrighton",
+    "comment" : "Test icd-git publish feature for ICD",
+    "date" : "2016-08-24T07:39:59.315Z"
+  } ]
 }
