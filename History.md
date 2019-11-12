@@ -113,6 +113,7 @@ TEST<br>Version | User | Date | Comment
 
 TEST2<br>Version | User | Date | Comment
 --------|------|------|--------
+1.0|abrighton|2019-11-12T22:50:12.739Z|Published new TEST2 API
 
 ## ICD Release History
 
