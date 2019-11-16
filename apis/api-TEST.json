@@ -1,6 +1,12 @@
 {
   "subsystem" : "TEST",
   "apis" : [ {
+    "version" : "2.3",
+    "commit" : "61f1329363226b1ce6428d3d8cd5a62ce82cd74b",
+    "user" : "abrighton",
+    "comment" : "Test",
+    "date" : "2019-11-16T23:14:58.947Z"
+  }, {
     "version" : "2.2",
     "commit" : "e7184df122a97a701b5ced55e89d9ccc1fb083d9",
     "user" : "abrighton",
