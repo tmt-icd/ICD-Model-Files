@@ -106,6 +106,7 @@ TCS<br>Version | User | Date | Comment
 
 TEST<br>Version | User | Date | Comment
 --------|------|------|--------
+2.2|abrighton|2019-11-16T22:59:21.756Z|Test
 2.1|abrighton|2019-11-16T20:41:53.384Z|Test again
 2.0|abrighton|2019-11-16T20:34:25.173Z|Test increment major version
 1.3|abrighton|2019-11-16T20:07:53.424Z|Test publish again
