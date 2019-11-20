@@ -1,24 +1,6 @@
 {
   "subsystems" : [ "TEST", "TEST2" ],
   "icds" : [ {
-    "icdVersion" : "1.3",
-    "versions" : [ "2.3", "1.0" ],
-    "user" : "abrighton",
-    "comment" : "sdfsdf",
-    "date" : "2019-11-16T23:42:57.076Z"
-  }, {
-    "icdVersion" : "1.2",
-    "versions" : [ "2.1", "1.0" ],
-    "user" : "abrighton",
-    "comment" : "Test",
-    "date" : "2019-11-16T21:25:16.202Z"
-  }, {
-    "icdVersion" : "1.1",
-    "versions" : [ "1.1", "1.0" ],
-    "user" : "abrighton",
-    "comment" : "Testing",
-    "date" : "2019-11-12T22:59:35.853Z"
-  }, {
     "icdVersion" : "1.0",
     "versions" : [ "1.0", "1.0" ],
     "user" : "abrighton",
