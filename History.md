@@ -106,6 +106,7 @@ TCS<br>Version | User | Date | Comment
 
 TEST<br>Version | User | Date | Comment
 --------|------|------|--------
+2.12|abrighton|2019-11-20T20:42:38.228Z|Published new TEST API
 2.11|abrighton|2019-11-20T20:37:19.579Z|Published new TEST API
 2.10|abrighton|2019-11-20T20:34:12.412Z|Published new TEST API
 2.9|abrighton|2019-11-19T19:17:59.575Z|Published new TEST API
