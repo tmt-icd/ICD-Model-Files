@@ -1,6 +1,12 @@
 {
   "subsystems" : [ "TEST", "TEST2" ],
   "icds" : [ {
+    "icdVersion" : "1.1",
+    "versions" : [ "1.1", "1.1" ],
+    "user" : "abrighton",
+    "comment" : "Testing ICD publish",
+    "date" : "2019-12-13T16:24:36.035Z"
+  }, {
     "icdVersion" : "1.0",
     "versions" : [ "1.0", "1.0" ],
     "user" : "abrighton",
