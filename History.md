@@ -114,10 +114,19 @@ TEST<br>Version | User | Date | Comment
 
 TEST2<br>Version | User | Date | Comment
 --------|------|------|--------
+1.1|abrighton|2019-12-13T14:56:46.901Z|Testing
 1.0|abrighton|2019-11-12T22:50:12.739Z|Published new TEST2 API
 
 ## ICD Release History
 
+
+
+### ICD between AOESW and ESW
+
+ICD<br>Version|AOESW<br>Version | ESW<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.1|1.5|1.4|abrighton|2019-04-20T20:24:06.726Z|Published new AOESW-ESW ICD as requested by Jason
+1.0|1.4|1.2|scroberts|2018-09-12T19:19:04.138Z|Publishing AOESW-ESW ICD for ESW PDR
 
 
 ### ICD between AOESW and NFIRAOS
@@ -128,14 +137,6 @@ ICD<br>Version|AOESW<br>Version | NFIRAOS<br> Version | User | Date | Comment
 1.2|1.3|1.2|scroberts|2018-05-11T15:39:24.909Z|For NFIRAOS FDR
 1.1|1.2|1.1|scroberts|2017-11-16T00:58:47.490Z|Release for NFIRAOS RTC FDR
 1.0|1.1|1.1|scroberts|2017-11-15T21:09:23.776Z|Release for NFIRAOS RTC FDR
-
-
-### ICD between AOESW and ESW
-
-ICD<br>Version|AOESW<br>Version | ESW<br> Version | User | Date | Comment
---------|--------|------|------|--------|--------
-1.1|1.5|1.4|abrighton|2019-04-20T20:24:06.726Z|Published new AOESW-ESW ICD as requested by Jason
-1.0|1.4|1.2|scroberts|2018-09-12T19:19:04.138Z|Publishing AOESW-ESW ICD for ESW PDR
 
 
 ### ICD between APS and TCS
@@ -155,21 +156,6 @@ ICD<br>Version|ESEN<br>Version | TCS<br> Version | User | Date | Comment
 1.0|1.0|1.10|abrighton|2019-10-29T11:22:36.189Z|Published new ESEN-TCS ICD as requested by Scott Michaels
 
 
-### ICD between ESW and OSS
-
-ICD<br>Version|ESW<br>Version | OSS<br> Version | User | Date | Comment
---------|--------|------|------|--------|--------
-1.1|1.3|1.0|scroberts|2018-09-18T16:35:46.240Z|Published for ESW PDR
-1.0|1.2|1.0|scroberts|2018-09-15T16:12:56.719Z|ICD release for ESW PDR
-
-
-### ICD between ESW and TCS
-
-ICD<br>Version|ESW<br>Version | TCS<br> Version | User | Date | Comment
---------|--------|------|------|--------|--------
-1.0|1.2|1.4|scroberts|2018-09-12T19:19:44.888Z|Publishing TCS-ESW ICD for ESW PDR
-
-
 ### ICD between ESW and IRIS
 
 ICD<br>Version|ESW<br>Version | IRIS<br> Version | User | Date | Comment
@@ -179,12 +165,19 @@ ICD<br>Version|ESW<br>Version | IRIS<br> Version | User | Date | Comment
 1.0|1.0|1.0|scroberts|2016-10-29T16:13:28.921Z|Release for IRIS PDR
 
 
-### ICD between IRIS and TCS
+### ICD between ESW and TCS
 
-ICD<br>Version|IRIS<br>Version | TCS<br> Version | User | Date | Comment
+ICD<br>Version|ESW<br>Version | TCS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
-1.1|1.2|1.2|scroberts|2017-08-22T18:23:31.999Z|Publishing IRIS-TCS ICD for IRIS PDR2
-1.0|1.0|1.0|scroberts|2016-10-29T16:12:12.201Z|Release for IRIS PDR
+1.0|1.2|1.4|scroberts|2018-09-12T19:19:44.888Z|Publishing TCS-ESW ICD for ESW PDR
+
+
+### ICD between ESW and OSS
+
+ICD<br>Version|ESW<br>Version | OSS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.1|1.3|1.0|scroberts|2018-09-18T16:35:46.240Z|Published for ESW PDR
+1.0|1.2|1.0|scroberts|2018-09-15T16:12:56.719Z|ICD release for ESW PDR
 
 
 ### ICD between IRIS and NFIRAOS
@@ -193,6 +186,14 @@ ICD<br>Version|IRIS<br>Version | NFIRAOS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
 1.1|1.5|1.3|abrighton|2019-04-18T22:40:22.061Z|Published by request from Gelys
 1.0|1.4|1.2|scroberts|2018-05-11T15:37:56.519Z|For NFIRAOS FDR
+
+
+### ICD between IRIS and TCS
+
+ICD<br>Version|IRIS<br>Version | TCS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.1|1.2|1.2|scroberts|2017-08-22T18:23:31.999Z|Publishing IRIS-TCS ICD for IRIS PDR2
+1.0|1.0|1.0|scroberts|2016-10-29T16:12:12.201Z|Release for IRIS PDR
 
 
 ### ICD between M1CS and TCS
