@@ -1,0 +1,10 @@
+{
+  "subsystems" : [ "TCS", "ESEN" ],
+  "icds" : [ {
+    "icdVersion" : "1.0",
+    "versions" : [ "1.11", "1.2" ],
+    "user" : "abrighton",
+    "comment" : "Published new TCS-ESEN ICD (changed subsystem order as requested by Gelys)",
+    "date" : "2019-12-18T22:20:21.233Z"
+  } ]
+}
