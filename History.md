@@ -154,6 +154,7 @@ ICD<br>Version|APS<br>Version | TCS<br> Version | User | Date | Comment
 
 ICD<br>Version|ESEN<br>Version | TCS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
+1.2|1.2|1.11|abrighton|2019-12-18T09:28:35.013Z|Published new ESEN-TCS ICD as requested by Scott Michaels
 1.1|1.1|1.11|abrighton|2019-11-05T11:54:48.929Z|Published new ESEN-TCS ICD as requested by Scott Michaels
 1.0|1.0|1.10|abrighton|2019-10-29T11:22:36.189Z|Published new ESEN-TCS ICD as requested by Scott Michaels
 
