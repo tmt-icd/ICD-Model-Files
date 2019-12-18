@@ -1,6 +1,12 @@
 {
   "subsystem" : "ESEN",
   "apis" : [ {
+    "version" : "1.2",
+    "commit" : "dbe2d3688bff6a491ee115906bb4bd037decf1f2",
+    "user" : "abrighton",
+    "comment" : "Published new ESEN API as requested by Scott Michaels",
+    "date" : "2019-12-18T09:28:14.631Z"
+  }, {
     "version" : "1.1",
     "commit" : "dd35e8c1deef643216fe80e0f59cf0caabbf43b3",
     "user" : "abrighton",
