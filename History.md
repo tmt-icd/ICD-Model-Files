@@ -32,6 +32,7 @@ APS<br>Version | User | Date | Comment
 
 ESEN<br>Version | User | Date | Comment
 --------|------|------|--------
+1.2|abrighton|2019-12-18T09:28:14.631Z|Published new ESEN API as requested by Scott Michaels
 1.1|abrighton|2019-11-05T11:52:41.210Z|Published new ESEN API as requested by Scott Michaels
 1.0|abrighton|2019-10-28T22:46:11.146Z|Published new TCS API as requested by Scott Michaels
 
