@@ -1,10 +1,29 @@
 {
   "subsystems" : [ "TCS", "ESEN" ],
   "icds" : [ {
-    "icdVersion" : "1.0",
+    "icdVersion" : "1.3",
     "versions" : [ "1.11", "1.2" ],
     "user" : "abrighton",
-    "comment" : "Published new TCS-ESEN ICD (changed subsystem order as requested by Gelys)",
+    "comment" : "Published new TCS-ESEN ICD (changed subsystem order as requested by Gelys: Note: Originally published as TCD-ESEN-1.0)",
     "date" : "2019-12-18T22:20:21.233Z"
-  } ]
+  }, {
+      "icdVersion" : "1.2",
+      "versions" : [ "1.11", "1.2" ],
+      "user" : "abrighton",
+      "comment" : "Published new TCS-ESEN ICD as requested by Scott Michaels",
+      "date" : "2019-12-18T09:28:35.013Z"
+    }, {
+      "icdVersion" : "1.1",
+      "versions" : [ "1.11", "1.1" ],
+      "user" : "abrighton",
+      "comment" : "Published new TCS-ESEN ICD as requested by Scott Michaels",
+      "date" : "2019-11-05T11:54:48.929Z"
+    }, {
+      "icdVersion" : "1.0",
+      "versions" : [ "1.10", "1.0" ],
+      "user" : "abrighton",
+      "comment" : "Published new TCS-ESEN ICD as requested by Scott Michaels",
+      "date" : "2019-10-29T11:22:36.189Z"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
-  "subsystems": ["NFIRAOS", "TCS"],
+  "subsystems": ["TCS", "NFIRAOS"],
   "icds": [{
-    "versions": ["1.1", "1.3"],
+    "versions": ["1.3", "1.1"],
     "icdVersion": "1.0",
     "date": "2017-11-16T00:59:12.743Z",
     "comment": "Release for NFIRAOS RTC FDR",

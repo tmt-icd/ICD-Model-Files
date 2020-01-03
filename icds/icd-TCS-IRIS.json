@@ -1,10 +1,10 @@
 {
-  "subsystems": ["IRIS", "TCS"],
+  "subsystems": ["TCS", "IRIS"],
   "icds": [{
     "versions": ["1.2", "1.2"],
     "icdVersion": "1.1",
     "date": "2017-08-22T18:23:31.999Z",
-    "comment": "Publishing IRIS-TCS ICD for IRIS PDR2",
+    "comment": "Publishing TCS-IRIS ICD for IRIS PDR2",
     "user": "scroberts"
   }, {
     "versions": ["1.0", "1.0"],
