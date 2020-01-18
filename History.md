@@ -221,6 +221,7 @@ ICD<br>Version|TCS<br>Version | NFIRAOS<br> Version | User | Date | Comment
 
 ICD<br>Version|TEST<br>Version | TEST2<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
+1.3|1.4|1.1|abrighton|2020-01-18T17:00:00.956Z|Testing
 1.2|1.2|1.1|abrighton|2019-12-13T16:26:23.080Z|sadasd
 1.1|1.1|1.1|abrighton|2019-12-13T16:24:36.035Z|Testing ICD publish
 1.0|1.0|1.0|abrighton|2019-11-12T22:50:26.751Z|Published new TEST-TEST2 ICD
