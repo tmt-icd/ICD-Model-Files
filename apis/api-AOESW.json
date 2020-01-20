@@ -1,12 +1,6 @@
 {
   "subsystem" : "AOESW",
   "apis" : [ {
-    "version" : "2.0",
-    "commit" : "88bf7879b91bb92033dfe345cd6d14b9e5aebcd8",
-    "user" : "abrighton",
-    "comment" : "test",
-    "date" : "2020-01-20T13:05:04.436Z"
-  }, {
     "version" : "1.5",
     "commit" : "764e028ad65a547ccca66fe8eead01d5c94d83d1",
     "user" : "abrighton",
