@@ -12,6 +12,7 @@ and is automatically generated from the JSON files in the apis and icds subdirec
 
 AOESW<br>Version | User | Date | Comment
 --------|------|------|--------
+2.0|abrighton|2020-01-20T13:05:04.436Z|test
 1.5|abrighton|2019-04-12T09:11:36.145Z|Published new AOESW API as requested by Jason
 1.4|scroberts|2018-09-12T19:03:22.426Z|API release prior to ESW PDR
 1.3|scroberts|2018-05-11T15:29:11.954Z|Release for NFIRAOS FDR
