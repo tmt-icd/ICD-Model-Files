@@ -1,12 +1,6 @@
 {
   "subsystems" : [ "TEST", "TEST2" ],
   "icds" : [ {
-    "icdVersion" : "2.1",
-    "versions" : [ "2.0", "1.1" ],
-    "user" : "abrighton",
-    "comment" : "test",
-    "date" : "2020-01-20T15:16:26.838Z"
-  }, {
     "icdVersion" : "2.0",
     "versions" : [ "1.6", "1.1" ],
     "user" : "abrighton",
