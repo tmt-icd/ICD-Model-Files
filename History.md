@@ -216,10 +216,3 @@ ICD<br>Version|TCS<br>Version | ESW<br> Version | User | Date | Comment
 ICD<br>Version|TCS<br>Version | NFIRAOS<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
 1.0|1.3|1.1|scroberts|2017-11-16T00:59:12.743Z|Release for NFIRAOS RTC FDR
-
-
-### ICD between TEST and TEST2
-
-ICD<br>Version|TEST<br>Version | TEST2<br> Version | User | Date | Comment
---------|--------|------|------|--------|--------
-1.0|1.0|1.0|abrighton|2019-11-12T22:50:26.751Z|Published new TEST-TEST2 ICD
