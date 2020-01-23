@@ -114,13 +114,6 @@ TEST<br>Version | User | Date | Comment
 1.1|abrighton|2019-11-21T12:21:34.477Z|Test publish
 1.0|abrighton|2019-11-12T22:49:58.314Z|Published new TEST API
 
-
-### Subsystem API: TEST2
-
-TEST2<br>Version | User | Date | Comment
---------|------|------|--------
-1.0|abrighton|2019-11-12T22:50:12.739Z|Published new TEST2 API
-
 ## ICD Release History
 
 
