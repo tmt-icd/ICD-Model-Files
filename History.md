@@ -107,7 +107,6 @@ TCS<br>Version | User | Date | Comment
 
 TEST<br>Version | User | Date | Comment
 --------|------|------|--------
-1.8|abrighton|2020-05-28T21:44:14.282Z|test
 1.7|abrighton|2020-05-14T08:54:59.830Z|Test publishing
 1.6|abrighton|2020-01-30T21:55:55.948Z|Test
 1.5|abrighton|2020-01-19T22:40:34.623Z|test
