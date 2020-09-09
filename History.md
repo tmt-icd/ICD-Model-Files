@@ -12,7 +12,7 @@ and is automatically generated from the JSON files in the apis and icds subdirec
 
 AOESW<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2020-06-25T21:19:23.168Z|
+master||2020-09-09T09:48:15.127Z|
 1.5|abrighton|2019-04-12T09:11:36.145Z|Published new AOESW API as requested by Jason
 1.4|scroberts|2018-09-12T19:03:22.426Z|API release prior to ESW PDR
 1.3|scroberts|2018-05-11T15:29:11.954Z|Release for NFIRAOS FDR
@@ -25,7 +25,7 @@ master||2020-06-25T21:19:23.168Z|
 
 APS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2020-06-25T21:19:23.217Z|
+master||2020-09-09T09:48:15.165Z|
 1.1|abrighton|2019-08-27T22:04:58.239Z|Published new APS API as requested by Jimmy Johnson
 1.0|abrighton|2019-08-26T08:07:00.876Z|Published new APS API as requested by Jimmy Johnson
 
@@ -34,7 +34,7 @@ master||2020-06-25T21:19:23.217Z|
 
 ESEN<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2020-06-25T21:19:23.213Z|
+master||2020-09-09T09:48:15.166Z|
 1.2|abrighton|2019-12-18T09:28:14.631Z|Published new ESEN API as requested by Scott Michaels
 1.1|abrighton|2019-11-05T11:52:41.210Z|Published new ESEN API as requested by Scott Michaels
 1.0|abrighton|2019-10-28T22:46:11.146Z|Published new TCS API as requested by Scott Michaels
@@ -44,7 +44,7 @@ master||2020-06-25T21:19:23.213Z|
 
 ESW<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2020-06-25T21:19:23.150Z|
+master||2020-09-09T09:48:15.178Z|
 1.4|abrighton|2019-04-20T20:23:42.957Z|Published new ESW API as requested by Jason
 1.3|scroberts|2018-09-18T16:34:30.611Z|For release of OSS-ESW ICD
 1.2|scroberts|2018-09-12T19:01:26.420Z|API release prior to ESW PDR
@@ -56,7 +56,7 @@ master||2020-06-25T21:19:23.150Z|
 
 IRIS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2020-06-25T21:19:23.203Z|
+master||2020-09-09T09:48:15.320Z|
 1.5|abrighton|2019-04-18T22:36:53.836Z|Published by request from Gelys
 1.4|scroberts|2017-08-31T22:08:53.891Z|Updated Release for pull request #20 prior to publishing IRIS-ESW ICD
 1.3|scroberts|2017-08-29T22:51:09.802Z|Release prior to publishing IRIS-ESW ICD
@@ -69,7 +69,7 @@ master||2020-06-25T21:19:23.203Z|
 
 M1CS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2020-06-25T21:19:23.148Z|
+master||2020-09-09T09:48:15.367Z|
 1.1|abrighton|2019-08-26T12:37:19.505Z|Published new M1CS API as requested by Jimmy Johnson
 1.0|abrighton|2019-08-23T20:33:25.576Z|Published new M1CS API as requested by Jimmy Johnson
 
@@ -78,7 +78,7 @@ master||2020-06-25T21:19:23.148Z|
 
 NFIRAOS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2020-06-25T21:19:23.156Z|
+master||2020-09-09T09:48:15.371Z|
 1.3|abrighton|2019-04-12T09:11:49.074Z|Published new NFIRAOS API as requested by Jason
 1.2|scroberts|2018-05-11T15:26:45.594Z|Release for NFIRAOS RTC FDR
 1.1|scroberts|2017-11-15T21:02:49.915Z|API release prior to publishing NFIRAOS-AOESW ICD
@@ -89,7 +89,7 @@ master||2020-06-25T21:19:23.156Z|
 
 OSS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2020-06-25T21:19:23.223Z|
+master||2020-09-09T09:48:15.368Z|
 1.0|scroberts|2018-09-15T16:03:47.402Z|OSS API release for ESW PDR
 
 
@@ -97,7 +97,7 @@ master||2020-06-25T21:19:23.223Z|
 
 TCS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2020-06-25T21:19:23.533Z|
+master||2020-09-09T09:48:15.517Z|
 1.11|abrighton|2019-11-05T11:52:07.199Z|Published new TCS API as requested by Scott Michaels
 1.10|abrighton|2019-10-29T11:22:12.996Z|Published new TCS API as requested by Scott Michaels
 1.9|abrighton|2019-08-27T22:05:05.293Z|Published new TCS API as requested by Jimmy Johnson
@@ -116,7 +116,8 @@ master||2020-06-25T21:19:23.533Z|
 
 TEST<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2020-06-25T21:19:23.547Z|
+master||2020-09-09T09:48:15.557Z|
+1.8|abrighton|2020-09-09T09:48:14.933Z|Test publish
 1.7|abrighton|2020-05-14T08:54:59.830Z|Test publishing
 1.6|abrighton|2020-01-30T21:55:55.948Z|Test
 1.5|abrighton|2020-01-19T22:40:34.623Z|test
@@ -131,7 +132,7 @@ master||2020-06-25T21:19:23.547Z|
 
 TEST2<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2020-06-25T21:19:23.517Z|
+master||2020-09-09T09:48:15.551Z|
 1.0|abrighton|2020-01-23T13:55:24.967Z|test
 
 ## ICD Release History
@@ -181,31 +182,6 @@ ICD<br>Version|OSS<br>Version | ESW<br> Version | User | Date | Comment
 1.0|1.0|1.2|scroberts|2018-09-15T16:12:56.719Z|ICD release for ESW PDR
 
 
-### ICD between TCS and APS
-
-ICD<br>Version|TCS<br>Version | APS<br> Version | User | Date | Comment
---------|--------|------|------|--------|--------
-1.2|1.9|1.1|abrighton|2019-08-27T22:05:12.178Z|Published new TCS-APS ICD as requested by Jimmy Johnson
-1.1|1.8|1.0|abrighton|2019-08-27T19:28:50.757Z|Published new TCS-APS ICD as requested by Jimmy Johnson
-1.0|1.6|1.0|abrighton|2019-08-26T08:07:14.867Z|Published new TCS-APS ICD as requested by Jimmy Johnson
-
-
-### ICD between TCS and M1CS
-
-ICD<br>Version|TCS<br>Version | M1CS<br> Version | User | Date | Comment
---------|--------|------|------|--------|--------
-1.1|1.7|1.1|abrighton|2019-08-26T12:37:27.337Z|Published new TCS-M1CS ICD as requested by Jimmy Johnson
-1.0|1.5|1.0|abrighton|2019-08-23T20:33:32.648Z|Published new TCS-M1CS ICD as requested by Jimmy Johnson
-
-
-### ICD between TCS and IRIS
-
-ICD<br>Version|TCS<br>Version | IRIS<br> Version | User | Date | Comment
---------|--------|------|------|--------|--------
-1.1|1.2|1.2|scroberts|2017-08-22T18:23:31.999Z|Publishing TCS-IRIS ICD for IRIS PDR2
-1.0|1.0|1.0|scroberts|2016-10-29T16:12:12.201Z|Release for IRIS PDR
-
-
 ### ICD between TCS and NFIRAOS
 
 ICD<br>Version|TCS<br>Version | NFIRAOS<br> Version | User | Date | Comment
@@ -220,6 +196,14 @@ ICD<br>Version|TCS<br>Version | ESW<br> Version | User | Date | Comment
 1.0|1.4|1.2|scroberts|2018-09-12T19:19:44.888Z|Publishing TCS-ESW ICD for ESW PDR
 
 
+### ICD between TCS and M1CS
+
+ICD<br>Version|TCS<br>Version | M1CS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.1|1.7|1.1|abrighton|2019-08-26T12:37:27.337Z|Published new TCS-M1CS ICD as requested by Jimmy Johnson
+1.0|1.5|1.0|abrighton|2019-08-23T20:33:32.648Z|Published new TCS-M1CS ICD as requested by Jimmy Johnson
+
+
 ### ICD between TCS and ESEN
 
 ICD<br>Version|TCS<br>Version | ESEN<br> Version | User | Date | Comment
@@ -228,6 +212,23 @@ ICD<br>Version|TCS<br>Version | ESEN<br> Version | User | Date | Comment
 1.2|1.11|1.2|abrighton|2019-12-18T09:28:35.013Z|Published new TCS-ESEN ICD as requested by Scott Michaels
 1.1|1.11|1.1|abrighton|2019-11-05T11:54:48.929Z|Published new TCS-ESEN ICD as requested by Scott Michaels
 1.0|1.10|1.0|abrighton|2019-10-29T11:22:36.189Z|Published new TCS-ESEN ICD as requested by Scott Michaels
+
+
+### ICD between TCS and APS
+
+ICD<br>Version|TCS<br>Version | APS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.2|1.9|1.1|abrighton|2019-08-27T22:05:12.178Z|Published new TCS-APS ICD as requested by Jimmy Johnson
+1.1|1.8|1.0|abrighton|2019-08-27T19:28:50.757Z|Published new TCS-APS ICD as requested by Jimmy Johnson
+1.0|1.6|1.0|abrighton|2019-08-26T08:07:14.867Z|Published new TCS-APS ICD as requested by Jimmy Johnson
+
+
+### ICD between TCS and IRIS
+
+ICD<br>Version|TCS<br>Version | IRIS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.1|1.2|1.2|scroberts|2017-08-22T18:23:31.999Z|Publishing TCS-IRIS ICD for IRIS PDR2
+1.0|1.0|1.0|scroberts|2016-10-29T16:12:12.201Z|Release for IRIS PDR
 
 
 ### ICD between TEST and TEST2
