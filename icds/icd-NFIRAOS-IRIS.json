@@ -1,16 +1,22 @@
 {
-  "subsystems": ["NFIRAOS", "IRIS"],
-  "icds": [{
-    "versions": ["1.3", "1.5"],
-    "icdVersion": "1.1",
-    "date": "2019-04-18T22:40:22.061Z",
-    "comment": "Published by request from Gelys",
-    "user": "abrighton"
+  "subsystems" : [ "NFIRAOS", "IRIS" ],
+  "icds" : [ {
+    "icdVersion" : "1.2",
+    "versions" : [ "1.4", "1.6" ],
+    "user" : "abrighton",
+    "comment" : "Published by request from Gelys\t\n",
+    "date" : "2021-05-01T18:53:46.303Z"
   }, {
-    "versions": ["1.2", "1.4"],
-    "icdVersion": "1.0",
-    "date": "2018-05-11T15:37:56.519Z",
-    "comment": "For NFIRAOS FDR",
-    "user": "scroberts"
-  }]
+    "icdVersion" : "1.1",
+    "versions" : [ "1.3", "1.5" ],
+    "user" : "abrighton",
+    "comment" : "Published by request from Gelys",
+    "date" : "2019-04-18T22:40:22.061Z"
+  }, {
+    "icdVersion" : "1.0",
+    "versions" : [ "1.2", "1.4" ],
+    "user" : "scroberts",
+    "comment" : "For NFIRAOS FDR",
+    "date" : "2018-05-11T15:37:56.519Z"
+  } ]
 }
