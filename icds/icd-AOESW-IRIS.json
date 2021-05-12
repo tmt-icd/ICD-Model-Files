@@ -1,6 +1,12 @@
 {
   "subsystems" : [ "AOESW", "IRIS" ],
   "icds" : [ {
+    "icdVersion" : "1.1",
+    "versions" : [ "1.7", "1.6" ],
+    "user" : "abrighton",
+    "comment" : "Removed reference to IRMS in AOESW subsystem-model.conf",
+    "date" : "2021-05-12T08:38:03.975Z"
+  }, {
     "icdVersion" : "1.0",
     "versions" : [ "1.6", "1.6" ],
     "user" : "abrighton",
