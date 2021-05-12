@@ -1,6 +1,12 @@
 {
   "subsystem" : "AOESW",
   "apis" : [ {
+    "version" : "1.7",
+    "commit" : "95ebe15e3de10f2f9d28118889138ea31d8af8b4",
+    "user" : "abrighton",
+    "comment" : "Removed reference to IRMS in subsystem-model.conf",
+    "date" : "2021-05-12T08:36:49.488Z"
+  }, {
     "version" : "1.6",
     "commit" : "828e02fa35bfa142d3429cbe2d58ce6bd24fdd8d",
     "user" : "abrighton",
