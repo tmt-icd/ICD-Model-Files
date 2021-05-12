@@ -12,7 +12,8 @@ and is automatically generated from the JSON files in the apis and icds subdirec
 
 AOESW<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2021-05-04T23:28:49.540Z|
+master||2021-05-12T08:36:49.639Z|
+1.7|abrighton|2021-05-12T08:36:49.488Z|Removed reference to IRMS in subsystem-model.conf
 1.6|abrighton|2021-05-04T23:27:49.185Z|Publishing by request from Gelys
 1.5|abrighton|2019-04-12T09:11:36.145Z|Published new AOESW API as requested by Jason
 1.4|scroberts|2018-09-12T19:03:22.426Z|API release prior to ESW PDR
@@ -26,7 +27,7 @@ master||2021-05-04T23:28:49.540Z|
 
 APS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2021-05-04T23:28:49.611Z|
+master||2021-05-12T08:36:49.701Z|
 1.1|abrighton|2019-08-27T22:04:58.239Z|Published new APS API as requested by Jimmy Johnson
 1.0|abrighton|2019-08-26T08:07:00.876Z|Published new APS API as requested by Jimmy Johnson
 
@@ -35,7 +36,7 @@ master||2021-05-04T23:28:49.611Z|
 
 ESEN<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2021-05-04T23:28:49.596Z|
+master||2021-05-12T08:36:49.697Z|
 1.2|abrighton|2019-12-18T09:28:14.631Z|Published new ESEN API as requested by Scott Michaels
 1.1|abrighton|2019-11-05T11:52:41.210Z|Published new ESEN API as requested by Scott Michaels
 1.0|abrighton|2019-10-28T22:46:11.146Z|Published new TCS API as requested by Scott Michaels
@@ -45,7 +46,7 @@ master||2021-05-04T23:28:49.596Z|
 
 ESW<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2021-05-04T23:28:49.605Z|
+master||2021-05-12T08:36:49.720Z|
 1.4|abrighton|2019-04-20T20:23:42.957Z|Published new ESW API as requested by Jason
 1.3|scroberts|2018-09-18T16:34:30.611Z|For release of OSS-ESW ICD
 1.2|scroberts|2018-09-12T19:01:26.420Z|API release prior to ESW PDR
@@ -57,7 +58,7 @@ master||2021-05-04T23:28:49.605Z|
 
 IRIS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2021-05-04T23:28:49.682Z|
+master||2021-05-12T08:36:49.828Z|
 1.6|abrighton|2021-05-01T18:52:06.870Z|Published by request from Gelys	
 
 1.5|abrighton|2019-04-18T22:36:53.836Z|Published by request from Gelys
@@ -72,7 +73,7 @@ master||2021-05-04T23:28:49.682Z|
 
 M1CS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2021-05-04T23:28:49.729Z|
+master||2021-05-12T08:36:49.866Z|
 1.1|abrighton|2019-08-26T12:37:19.505Z|Published new M1CS API as requested by Jimmy Johnson
 1.0|abrighton|2019-08-23T20:33:25.576Z|Published new M1CS API as requested by Jimmy Johnson
 
@@ -81,7 +82,7 @@ master||2021-05-04T23:28:49.729Z|
 
 NFIRAOS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2021-05-04T23:28:49.736Z|
+master||2021-05-12T08:36:49.903Z|
 1.4|abrighton|2021-05-01T18:51:25.667Z|Published by request from Gelys	
 
 1.3|abrighton|2019-04-12T09:11:49.074Z|Published new NFIRAOS API as requested by Jason
@@ -94,7 +95,7 @@ master||2021-05-04T23:28:49.736Z|
 
 OSS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2021-05-04T23:28:49.786Z|
+master||2021-05-12T08:36:49.850Z|
 1.0|scroberts|2018-09-15T16:03:47.402Z|OSS API release for ESW PDR
 
 
@@ -102,7 +103,7 @@ master||2021-05-04T23:28:49.786Z|
 
 TCS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2021-05-04T23:28:49.812Z|
+master||2021-05-12T08:36:49.965Z|
 1.11|abrighton|2019-11-05T11:52:07.199Z|Published new TCS API as requested by Scott Michaels
 1.10|abrighton|2019-10-29T11:22:12.996Z|Published new TCS API as requested by Scott Michaels
 1.9|abrighton|2019-08-27T22:05:05.293Z|Published new TCS API as requested by Jimmy Johnson
@@ -121,7 +122,7 @@ master||2021-05-04T23:28:49.812Z|
 
 TEST<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2021-05-04T23:28:49.864Z|
+master||2021-05-12T08:36:50.033Z|
 1.7|abrighton|2020-05-14T08:54:59.830Z|Test publishing
 1.6|abrighton|2020-01-30T21:55:55.948Z|Test
 1.5|abrighton|2020-01-19T22:40:34.623Z|test
@@ -136,11 +137,18 @@ master||2021-05-04T23:28:49.864Z|
 
 TEST2<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2021-05-04T23:28:49.866Z|
+master||2021-05-12T08:36:50.051Z|
 1.0|abrighton|2020-01-23T13:55:24.967Z|test
 
 ## ICD Release History
 
+
+
+### ICD between AOESW and IRIS
+
+ICD<br>Version|AOESW<br>Version | IRIS<br> Version | User | Date | Comment
+--------|--------|------|------|--------|--------
+1.0|1.6|1.6|abrighton|2021-05-04T23:28:49.389Z|Publishing by request from Gelys
 
 
 ### ICD between AOESW and ESW
@@ -149,13 +157,6 @@ ICD<br>Version|AOESW<br>Version | ESW<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
 1.1|1.5|1.4|abrighton|2019-04-20T20:24:06.726Z|Published new AOESW-ESW ICD as requested by Jason
 1.0|1.4|1.2|scroberts|2018-09-12T19:19:04.138Z|Publishing AOESW-ESW ICD for ESW PDR
-
-
-### ICD between AOESW and IRIS
-
-ICD<br>Version|AOESW<br>Version | IRIS<br> Version | User | Date | Comment
---------|--------|------|------|--------|--------
-1.0|1.6|1.6|abrighton|2021-05-04T23:28:49.389Z|Publishing by request from Gelys
 
 
 ### ICD between IRIS and ESW
