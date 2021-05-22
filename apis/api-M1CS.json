@@ -1,16 +1,22 @@
 {
-  "subsystem": "M1CS",
-  "apis": [{
-    "commit": "3eab1c40edb8773957f882a7b6fafe1b3bbe34cb",
-    "version": "1.1",
-    "date": "2019-08-26T12:37:19.505Z",
-    "comment": "Published new M1CS API as requested by Jimmy Johnson",
-    "user": "abrighton"
+  "subsystem" : "M1CS",
+  "apis" : [ {
+    "version" : "1.2",
+    "commit" : "750c783536629213fd3c81901122af5cd91f4ddc",
+    "user" : "abrighton",
+    "comment" : "Publishing by request from Gary Brack",
+    "date" : "2021-05-22T19:25:05.519Z"
   }, {
-    "commit": "e88c6a273f3d4c7e5afe427eaedabf9c7d2683bb",
-    "version": "1.0",
-    "date": "2019-08-23T20:33:25.576Z",
-    "comment": "Published new M1CS API as requested by Jimmy Johnson",
-    "user": "abrighton"
-  }]
+    "version" : "1.1",
+    "commit" : "3eab1c40edb8773957f882a7b6fafe1b3bbe34cb",
+    "user" : "abrighton",
+    "comment" : "Published new M1CS API as requested by Jimmy Johnson",
+    "date" : "2019-08-26T12:37:19.505Z"
+  }, {
+    "version" : "1.0",
+    "commit" : "e88c6a273f3d4c7e5afe427eaedabf9c7d2683bb",
+    "user" : "abrighton",
+    "comment" : "Published new M1CS API as requested by Jimmy Johnson",
+    "date" : "2019-08-23T20:33:25.576Z"
+  } ]
 }
