@@ -1,16 +1,22 @@
 {
-  "subsystem": "APS",
-  "apis": [{
-    "commit": "0742d03401f1c8f3fa00b115da178f62342d4069",
-    "version": "1.1",
-    "date": "2019-08-27T22:04:58.239Z",
-    "comment": "Published new APS API as requested by Jimmy Johnson",
-    "user": "abrighton"
+  "subsystem" : "APS",
+  "apis" : [ {
+    "version" : "1.2",
+    "commit" : "66534dbd513f36aacdb99ead0c60de78132492fb",
+    "user" : "abrighton",
+    "comment" : "Publishing by request from Gary Brack",
+    "date" : "2021-05-22T19:24:31.734Z"
   }, {
-    "commit": "e3e44b914dfb40d77eb2ef8f91435f5a2696a994",
-    "version": "1.0",
-    "date": "2019-08-26T08:07:00.876Z",
-    "comment": "Published new APS API as requested by Jimmy Johnson",
-    "user": "abrighton"
-  }]
+    "version" : "1.1",
+    "commit" : "0742d03401f1c8f3fa00b115da178f62342d4069",
+    "user" : "abrighton",
+    "comment" : "Published new APS API as requested by Jimmy Johnson",
+    "date" : "2019-08-27T22:04:58.239Z"
+  }, {
+    "version" : "1.0",
+    "commit" : "e3e44b914dfb40d77eb2ef8f91435f5a2696a994",
+    "user" : "abrighton",
+    "comment" : "Published new APS API as requested by Jimmy Johnson",
+    "date" : "2019-08-26T08:07:00.876Z"
+  } ]
 }
