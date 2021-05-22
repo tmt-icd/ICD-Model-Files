@@ -1,0 +1,10 @@
+{
+  "subsystems" : [ "M1CS", "APS" ],
+  "icds" : [ {
+    "icdVersion" : "1.0",
+    "versions" : [ "1.2", "1.2" ],
+    "user" : "abrighton",
+    "comment" : "Publishing by request from Gary Brack",
+    "date" : "2021-05-22T19:25:32.627Z"
+  } ]
+}
