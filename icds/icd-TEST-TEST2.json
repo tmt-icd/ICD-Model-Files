@@ -6,11 +6,5 @@
     "user" : "abrighton",
     "comment" : "testing",
     "date" : "2022-01-25T21:35:28.033Z"
-  }, {
-    "icdVersion" : "1.0",
-    "versions" : [ "1.6", "1.0" ],
-    "user" : "abrighton",
-    "comment" : "Test",
-    "date" : "2020-01-30T21:56:20.650Z"
   } ]
 }

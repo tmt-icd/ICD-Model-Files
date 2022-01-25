@@ -126,14 +126,6 @@ TEST<br>Version | User | Date | Comment
 --------|------|------|--------
 master||2022-01-25T21:35:28.538Z|
 1.8|abrighton|2022-01-25T21:34:37.720Z|testing
-1.7|abrighton|2020-05-14T08:54:59.830Z|Test publishing
-1.6|abrighton|2020-01-30T21:55:55.948Z|Test
-1.5|abrighton|2020-01-19T22:40:34.623Z|test
-1.4|abrighton|2020-01-18T16:59:39.741Z|Testing
-1.3|abrighton|2020-01-18T16:15:07.532Z|Testing publish
-1.2|abrighton|2019-12-13T16:23:22.793Z|Testing 123
-1.1|abrighton|2019-11-21T12:21:34.477Z|Test publish
-1.0|abrighton|2019-11-12T22:49:58.314Z|Published new TEST API
 
 
 ### Subsystem API: TEST2
@@ -262,4 +254,3 @@ ICD<br>Version|TCS<br>Version | IRIS<br> Version | User | Date | Comment
 ICD<br>Version|TEST<br>Version | TEST2<br> Version | User | Date | Comment
 --------|--------|------|------|--------|--------
 1.1|1.8|1.1|abrighton|2022-01-25T21:35:28.033Z|testing
-1.0|1.6|1.0|abrighton|2020-01-30T21:56:20.650Z|Test
