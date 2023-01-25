@@ -1,6 +1,12 @@
 {
   "subsystem" : "APS",
   "apis" : [ {
+    "version" : "1.4",
+    "commit" : "11c0968f907e00b45372550b8c92e696087daa8e",
+    "user" : "abrighton",
+    "comment" : "- added guiding residuals, publishing by request of Angelic Ebbers",
+    "date" : "2023-01-25T18:39:59.262Z"
+  }, {
     "version" : "1.3",
     "commit" : "7263fe73c3fa23bcaf8b4b918e5041217e2e2957",
     "user" : "abrighton",
