@@ -1,6 +1,12 @@
 {
   "subsystem" : "AOESW",
   "apis" : [ {
+    "version" : "1.8",
+    "commit" : "3077a9c69586d688badcd5e59f857edcaa759256",
+    "user" : "abrighton",
+    "comment" : "Changes from Lianqi Wang",
+    "date" : "2023-09-14T09:27:29.244Z"
+  }, {
     "version" : "1.7",
     "commit" : "95ebe15e3de10f2f9d28118889138ea31d8af8b4",
     "user" : "abrighton",
