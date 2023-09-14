@@ -1,6 +1,12 @@
 {
   "subsystems" : [ "LGSF", "AOESW" ],
   "icds" : [ {
+    "icdVersion" : "1.1",
+    "versions" : [ "1.1", "1.9" ],
+    "user" : "abrighton",
+    "comment" : "Changes from Lianqi Wang",
+    "date" : "2023-09-14T20:34:35.219Z"
+  }, {
     "icdVersion" : "1.0",
     "versions" : [ "1.0", "1.8" ],
     "user" : "abrighton",
