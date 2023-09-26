@@ -1,6 +1,12 @@
 {
   "subsystem" : "LGSF",
   "apis" : [ {
+    "version" : "1.2",
+    "commit" : "3949c71cf4accda6274f625fc385b98f0d5fcf83",
+    "user" : "abrighton",
+    "comment" : "Made some updates to the LGSF model files to fix a few issues",
+    "date" : "2023-09-26T09:02:34.346Z"
+  }, {
     "version" : "1.1",
     "commit" : "2696f455757c969e743c16f7fabc873f8973a949",
     "user" : "abrighton",
