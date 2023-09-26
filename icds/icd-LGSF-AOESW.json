@@ -1,6 +1,12 @@
 {
   "subsystems" : [ "LGSF", "AOESW" ],
   "icds" : [ {
+    "icdVersion" : "1.2",
+    "versions" : [ "1.2", "1.9" ],
+    "user" : "abrighton",
+    "comment" : "Made some updates to the LGSF model files to fix a few issues",
+    "date" : "2023-09-26T09:03:23.051Z"
+  }, {
     "icdVersion" : "1.1",
     "versions" : [ "1.1", "1.9" ],
     "user" : "abrighton",
