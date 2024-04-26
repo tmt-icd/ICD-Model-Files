@@ -1,6 +1,12 @@
 {
   "subsystem" : "M1CS",
   "apis" : [ {
+    "version" : "1.3",
+    "commit" : "e09f9e7e16881ec7faccf28c35a76edfa3608f90",
+    "user" : "abrighton",
+    "comment" : "Published by request from Jason",
+    "date" : "2024-04-26T19:50:32.863Z"
+  }, {
     "version" : "1.2",
     "commit" : "750c783536629213fd3c81901122af5cd91f4ddc",
     "user" : "abrighton",
