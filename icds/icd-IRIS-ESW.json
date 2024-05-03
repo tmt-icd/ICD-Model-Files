@@ -1,22 +1,28 @@
 {
-  "subsystems": ["IRIS", "ESW"],
-  "icds": [{
-    "versions": ["1.4", "1.1"],
-    "icdVersion": "1.2",
-    "date": "2017-08-31T22:09:36.140Z",
-    "comment": "Release for IRIS PDR",
-    "user": "scroberts"
+  "subsystems" : [ "IRIS", "ESW" ],
+  "icds" : [ {
+    "icdVersion" : "1.3",
+    "versions" : [ "1.6", "1.5" ],
+    "user" : "abrighton",
+    "comment" : "Updating after changes by Jason",
+    "date" : "2024-05-03T09:49:31.362Z"
   }, {
-    "versions": ["1.3", "1.1"],
-    "icdVersion": "1.1",
-    "date": "2017-08-29T22:52:33.823Z",
-    "comment": "Release for IRIS PDR",
-    "user": "scroberts"
+    "icdVersion" : "1.2",
+    "versions" : [ "1.4", "1.1" ],
+    "user" : "scroberts",
+    "comment" : "Release for IRIS PDR",
+    "date" : "2017-08-31T22:09:36.140Z"
   }, {
-    "versions": ["1.0", "1.0"],
-    "icdVersion": "1.0",
-    "date": "2016-10-29T16:13:28.921Z",
-    "comment": "Release for IRIS PDR",
-    "user": "scroberts"
-  }]
+    "icdVersion" : "1.1",
+    "versions" : [ "1.3", "1.1" ],
+    "user" : "scroberts",
+    "comment" : "Release for IRIS PDR",
+    "date" : "2017-08-29T22:52:33.823Z"
+  }, {
+    "icdVersion" : "1.0",
+    "versions" : [ "1.0", "1.0" ],
+    "user" : "scroberts",
+    "comment" : "Release for IRIS PDR",
+    "date" : "2016-10-29T16:13:28.921Z"
+  } ]
 }
