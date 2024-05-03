@@ -1,16 +1,22 @@
 {
-  "subsystems": ["AOESW", "ESW"],
-  "icds": [{
-    "versions": ["1.5", "1.4"],
-    "icdVersion": "1.1",
-    "date": "2019-04-20T20:24:06.726Z",
-    "comment": "Published new AOESW-ESW ICD as requested by Jason",
-    "user": "abrighton"
+  "subsystems" : [ "AOESW", "ESW" ],
+  "icds" : [ {
+    "icdVersion" : "1.2",
+    "versions" : [ "1.10", "1.5" ],
+    "user" : "abrighton",
+    "comment" : "Updating after changes by Jason",
+    "date" : "2024-05-03T09:49:58.788Z"
   }, {
-    "versions": ["1.4", "1.2"],
-    "icdVersion": "1.0",
-    "date": "2018-09-12T19:19:04.138Z",
-    "comment": "Publishing AOESW-ESW ICD for ESW PDR",
-    "user": "scroberts"
-  }]
+    "icdVersion" : "1.1",
+    "versions" : [ "1.5", "1.4" ],
+    "user" : "abrighton",
+    "comment" : "Published new AOESW-ESW ICD as requested by Jason",
+    "date" : "2019-04-20T20:24:06.726Z"
+  }, {
+    "icdVersion" : "1.0",
+    "versions" : [ "1.4", "1.2" ],
+    "user" : "scroberts",
+    "comment" : "Publishing AOESW-ESW ICD for ESW PDR",
+    "date" : "2018-09-12T19:19:04.138Z"
+  } ]
 }
