@@ -1,34 +1,40 @@
 {
-  "subsystem": "ESW",
-  "apis": [{
-    "commit": "c81a7032f070ac8b651c4843546fc1f2ada549ed",
-    "version": "1.4",
-    "date": "2019-04-20T20:23:42.957Z",
-    "comment": "Published new ESW API as requested by Jason",
-    "user": "abrighton"
+  "subsystem" : "ESW",
+  "apis" : [ {
+    "version" : "1.5",
+    "commit" : "802a2912325e8796a01d5f4d8373d6bf51bc2ae9",
+    "user" : "abrighton",
+    "comment" : "Updating after changes by Jason",
+    "date" : "2024-05-03T09:47:27.363Z"
   }, {
-    "commit": "072584294fc86cd83232060a7dd8a73c84a5045b",
-    "version": "1.3",
-    "date": "2018-09-18T16:34:30.611Z",
-    "comment": "For release of OSS-ESW ICD",
-    "user": "scroberts"
+    "version" : "1.4",
+    "commit" : "c81a7032f070ac8b651c4843546fc1f2ada549ed",
+    "user" : "abrighton",
+    "comment" : "Published new ESW API as requested by Jason",
+    "date" : "2019-04-20T20:23:42.957Z"
   }, {
-    "commit": "310cd9e88837157098e5b25a9f18174e6607d74c",
-    "version": "1.2",
-    "date": "2018-09-12T19:01:26.420Z",
-    "comment": "API release prior to ESW PDR",
-    "user": "scroberts"
+    "version" : "1.3",
+    "commit" : "072584294fc86cd83232060a7dd8a73c84a5045b",
+    "user" : "scroberts",
+    "comment" : "For release of OSS-ESW ICD",
+    "date" : "2018-09-18T16:34:30.611Z"
   }, {
-    "commit": "343a6d8ea52e334624f55f8f7a42d0e3faf12809",
-    "version": "1.1",
-    "date": "2017-08-29T22:51:46.499Z",
-    "comment": "Release prior to publishing IRIS-ESW ICD",
-    "user": "scroberts"
+    "version" : "1.2",
+    "commit" : "310cd9e88837157098e5b25a9f18174e6607d74c",
+    "user" : "scroberts",
+    "comment" : "API release prior to ESW PDR",
+    "date" : "2018-09-12T19:01:26.420Z"
   }, {
-    "commit": "f8b8616e11007efef4b76801e277ace19c6878dd",
-    "version": "1.0",
-    "date": "2016-10-28T21:10:03.234Z",
-    "comment": "Initial release of API",
-    "user": "scroberts"
-  }]
+    "version" : "1.1",
+    "commit" : "343a6d8ea52e334624f55f8f7a42d0e3faf12809",
+    "user" : "scroberts",
+    "comment" : "Release prior to publishing IRIS-ESW ICD",
+    "date" : "2017-08-29T22:51:46.499Z"
+  }, {
+    "version" : "1.0",
+    "commit" : "f8b8616e11007efef4b76801e277ace19c6878dd",
+    "user" : "scroberts",
+    "comment" : "Initial release of API",
+    "date" : "2016-10-28T21:10:03.234Z"
+  } ]
 }
