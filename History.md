@@ -12,7 +12,7 @@ and is automatically generated from the JSON files in the apis and icds subdirec
 
 AOESW<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.164Z|
+master||2024-05-08T23:08:07.340Z|
 1.10|abrighton|2024-04-16T18:53:31.826Z|Published by request from Jason Weiss
 1.9|abrighton|2023-09-14T20:33:18.734Z|Changes from Lianqi Wang
 1.8|abrighton|2023-09-14T09:27:29.244Z|Changes from Lianqi Wang
@@ -30,7 +30,7 @@ master||2024-05-03T09:49:59.164Z|
 
 APS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.164Z|
+master||2024-05-08T23:08:07.387Z|
 1.4|abrighton|2023-01-25T18:39:59.262Z|- added guiding residuals, publishing by request of Angelic Ebbers
 1.3|abrighton|2023-01-18T18:41:58.631Z|Published new APS API as requested by Scott Michaels
 1.2|abrighton|2021-05-22T19:24:31.734Z|Publishing by request from Gary Brack
@@ -42,7 +42,8 @@ master||2024-05-03T09:49:59.164Z|
 
 DMS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.076Z|
+master||2024-05-08T23:08:07.392Z|
+1.3|abrighton|2024-05-08T23:08:07.027Z|Publishing by request from Jason
 1.2|abrighton|2024-05-03T09:46:55.586Z|Updating after changes by Jason
 1.1|abrighton|2024-04-19T18:02:42.795Z|Changed TMT to TIO
 1.0|abrighton|2024-04-16T18:52:01.830Z|Published by request from Jason Weiss
@@ -52,7 +53,7 @@ master||2024-05-03T09:49:59.076Z|
 
 ENC<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.166Z|
+master||2024-05-08T23:08:07.422Z|
 1.0|abrighton|2024-04-26T19:49:48.682Z|Published by request from Jason
 
 
@@ -60,7 +61,7 @@ master||2024-05-03T09:49:59.166Z|
 
 ESEN<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.147Z|
+master||2024-05-08T23:08:07.432Z|
 1.2|abrighton|2019-12-18T09:28:14.631Z|Published new ESEN API as requested by Scott Michaels
 1.1|abrighton|2019-11-05T11:52:41.210Z|Published new ESEN API as requested by Scott Michaels
 1.0|abrighton|2019-10-28T22:46:11.146Z|Published new TCS API as requested by Scott Michaels
@@ -70,7 +71,7 @@ master||2024-05-03T09:49:59.147Z|
 
 ESW<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.136Z|
+master||2024-05-08T23:08:07.392Z|
 1.5|abrighton|2024-05-03T09:47:27.363Z|Updating after changes by Jason
 1.4|abrighton|2019-04-20T20:23:42.957Z|Published new ESW API as requested by Jason
 1.3|scroberts|2018-09-18T16:34:30.611Z|For release of OSS-ESW ICD
@@ -83,7 +84,7 @@ master||2024-05-03T09:49:59.136Z|
 
 IRIS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.170Z|
+master||2024-05-08T23:08:07.402Z|
 1.6|abrighton|2021-05-01T18:52:06.870Z|Published by request from Gelys	
 
 1.5|abrighton|2019-04-18T22:36:53.836Z|Published by request from Gelys
@@ -98,7 +99,7 @@ master||2024-05-03T09:49:59.170Z|
 
 LGSF<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.107Z|
+master||2024-05-08T23:08:07.437Z|
 1.2|abrighton|2023-09-26T09:02:34.346Z|Made some updates to the LGSF model files to fix a few issues
 1.1|abrighton|2023-09-14T20:33:54.586Z|Changes from Lianqi Wang
 1.0|abrighton|2023-09-14T09:28:20.303Z|Changes from Lianqi Wang
@@ -108,7 +109,7 @@ master||2024-05-03T09:49:59.107Z|
 
 M1CS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.341Z|
+master||2024-05-08T23:08:07.645Z|
 1.3|abrighton|2024-04-26T19:50:32.863Z|Published by request from Jason
 1.2|abrighton|2021-05-22T19:25:05.519Z|Publishing by request from Gary Brack
 1.1|abrighton|2019-08-26T12:37:19.505Z|Published new M1CS API as requested by Jimmy Johnson
@@ -119,7 +120,7 @@ master||2024-05-03T09:49:59.341Z|
 
 M2S<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.388Z|
+master||2024-05-08T23:08:07.669Z|
 1.0|abrighton|2024-04-26T19:51:13.430Z|Published by request from Jason
 
 
@@ -127,7 +128,7 @@ master||2024-05-03T09:49:59.388Z|
 
 M3S<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.427Z|
+master||2024-05-08T23:08:07.669Z|
 1.0|abrighton|2024-04-26T19:51:41.450Z|Published by request from Jason
 
 
@@ -135,7 +136,7 @@ master||2024-05-03T09:49:59.427Z|
 
 NFIRAOS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.438Z|
+master||2024-05-08T23:08:07.663Z|
 1.5|abrighton|2024-04-25T21:10:08.028Z|Published by request from Jason
 1.4|abrighton|2021-05-01T18:51:25.667Z|Published by request from Gelys	
 
@@ -149,7 +150,7 @@ master||2024-05-03T09:49:59.438Z|
 
 OSS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.444Z|
+master||2024-05-08T23:08:07.688Z|
 1.0|scroberts|2018-09-15T16:03:47.402Z|OSS API release for ESW PDR
 
 
@@ -157,7 +158,7 @@ master||2024-05-03T09:49:59.444Z|
 
 STR<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.468Z|
+master||2024-05-08T23:08:07.732Z|
 1.0|abrighton|2024-04-26T19:52:19.847Z|Published by request from Jason
 
 
@@ -165,7 +166,7 @@ master||2024-05-03T09:49:59.468Z|
 
 TCS<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.453Z|
+master||2024-05-08T23:08:07.728Z|
 1.13|abrighton|2024-04-26T19:52:58.430Z|Published by request from Jason
 1.12|abrighton|2023-01-25T18:41:02.039Z|- publishing by request of Angelic Ebbers
 1.11|abrighton|2019-11-05T11:52:07.199Z|Published new TCS API as requested by Scott Michaels
@@ -186,7 +187,7 @@ master||2024-05-03T09:49:59.453Z|
 
 TEST<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.468Z|
+master||2024-05-08T23:08:07.725Z|
 1.9|abrighton|2022-11-01T13:04:42.988Z|Test publishing
 1.8|abrighton|2022-01-25T21:34:37.720Z|testing
 
@@ -195,7 +196,7 @@ master||2024-05-03T09:49:59.468Z|
 
 TEST2<br>Version | User | Date | Comment
 --------|------|------|--------
-master||2024-05-03T09:49:59.620Z|
+master||2024-05-08T23:08:07.923Z|
 1.1|abrighton|2022-01-25T21:35:03.386Z|testing
 1.0|abrighton|2020-01-23T13:55:24.967Z|test
 
