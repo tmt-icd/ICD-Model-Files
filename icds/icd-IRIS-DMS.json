@@ -1,0 +1,10 @@
+{
+  "subsystems" : [ "IRIS", "DMS" ],
+  "icds" : [ {
+    "icdVersion" : "1.0",
+    "versions" : [ "1.7", "1.3" ],
+    "user" : "abrighton",
+    "comment" : "Publishing by request from Jason",
+    "date" : "2024-05-08T23:09:19.614Z"
+  } ]
+}
