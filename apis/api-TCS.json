@@ -1,6 +1,12 @@
 {
   "subsystem" : "TCS",
   "apis" : [ {
+    "version" : "1.15",
+    "commit" : "6ba141fda95d8d8d8768cad4296f626cb921e8cb",
+    "user" : "abrighton",
+    "comment" : "Renamed tcs-seq to tcs_seq, since CSW component names are not allowed to contain a \"-\". \nRequested by Kim.\n",
+    "date" : "2024-07-02T08:10:24.685Z"
+  }, {
     "version" : "1.14",
     "commit" : "b97c26b63961f0cdaaee80c0ecf45a1ce8d9b20c",
     "user" : "abrighton",
