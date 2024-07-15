@@ -1,6 +1,12 @@
 {
   "subsystem" : "APS",
   "apis" : [ {
+    "version" : "1.6",
+    "commit" : "114b12daf6a2e2a6be1a2fdadf7c20522208fa21",
+    "user" : "abrighton",
+    "comment" : "Published by request from Angelic Ebbers",
+    "date" : "2024-07-15T20:02:57.413Z"
+  }, {
     "version" : "1.5",
     "commit" : "08fe01f9331c245826b65595b695c13ed1134dee",
     "user" : "abrighton",
