@@ -1,6 +1,12 @@
 {
   "subsystem" : "APS",
   "apis" : [ {
+    "version" : "1.7",
+    "commit" : "0e637aa63ee14d913795e257ed4bbd448c89c6fc",
+    "user" : "abrighton",
+    "comment" : "Published by request from Kim for APS ESW SDB",
+    "date" : "2024-07-22T14:42:37.188Z"
+  }, {
     "version" : "1.6",
     "commit" : "114b12daf6a2e2a6be1a2fdadf7c20522208fa21",
     "user" : "abrighton",
