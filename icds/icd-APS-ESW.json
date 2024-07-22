@@ -1,0 +1,10 @@
+{
+  "subsystems" : [ "APS", "ESW" ],
+  "icds" : [ {
+    "icdVersion" : "1.0",
+    "versions" : [ "1.7", "1.6" ],
+    "user" : "abrighton",
+    "comment" : "Published by request from Kim for APS ESW SDB",
+    "date" : "2024-07-22T14:43:51.263Z"
+  } ]
+}
