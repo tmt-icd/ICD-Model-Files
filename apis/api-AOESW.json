@@ -1,6 +1,12 @@
 {
   "subsystem" : "AOESW",
   "apis" : [ {
+    "version" : "1.12",
+    "commit" : "a379396cb058e90ed5663aee634ea540e324a3ca",
+    "user" : "abrighton",
+    "comment" : "Jason merged PRs",
+    "date" : "2025-05-09T21:38:02.256Z"
+  }, {
     "version" : "1.11",
     "commit" : "c9f9631b3120ec7818414457087f670fd044ae4c",
     "user" : "abrighton",
