@@ -1,0 +1,10 @@
+{
+  "subsystem" : "MODHIS",
+  "apis" : [ {
+    "commit" : "7e72083013da173d62eac68404393e9a79639a69",
+    "version" : "1.0",
+    "date" : "2025-08-16T20:24:56.364Z",
+    "comment" : "Published by request from Jason",
+    "user" : "abrighton"
+  } ]
+}
