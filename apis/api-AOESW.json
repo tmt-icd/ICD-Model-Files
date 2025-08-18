@@ -1,88 +1,94 @@
 {
   "subsystem" : "AOESW",
   "apis" : [ {
-    "version" : "1.13",
+    "commit" : "e3c0539d27382f88c4e19299b90db12a8747f366",
+    "version" : "1.14",
+    "date" : "2025-08-18T16:42:32.480Z",
+    "comment" : "By request from Jason",
+    "user" : "abrighton"
+  }, {
     "commit" : "0dd0b373bdc6ba2b42f22fc06eed871cf411f6ad",
-    "user" : "abrighton",
+    "version" : "1.13",
+    "date" : "2025-05-20T20:16:00.832Z",
     "comment" : "Published by request from Jason",
-    "date" : "2025-05-20T20:16:00.832Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.12",
     "commit" : "a379396cb058e90ed5663aee634ea540e324a3ca",
-    "user" : "abrighton",
+    "version" : "1.12",
+    "date" : "2025-05-09T21:38:02.256Z",
     "comment" : "Jason merged PRs",
-    "date" : "2025-05-09T21:38:02.256Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.11",
     "commit" : "c9f9631b3120ec7818414457087f670fd044ae4c",
-    "user" : "abrighton",
+    "version" : "1.11",
+    "date" : "2025-05-07T19:47:59.675Z",
     "comment" : "Published by request from Jason",
-    "date" : "2025-05-07T19:47:59.675Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.10",
     "commit" : "3bc7ea3d5b08a9214173b3cd600b7bf6aae2c356",
-    "user" : "abrighton",
+    "version" : "1.10",
+    "date" : "2024-04-16T18:53:31.826Z",
     "comment" : "Published by request from Jason Weiss",
-    "date" : "2024-04-16T18:53:31.826Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.9",
     "commit" : "799a29ac219ebf3561a1a15a69d6a173686f287d",
-    "user" : "abrighton",
+    "version" : "1.9",
+    "date" : "2023-09-14T20:33:18.734Z",
     "comment" : "Changes from Lianqi Wang",
-    "date" : "2023-09-14T20:33:18.734Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.8",
     "commit" : "3077a9c69586d688badcd5e59f857edcaa759256",
-    "user" : "abrighton",
+    "version" : "1.8",
+    "date" : "2023-09-14T09:27:29.244Z",
     "comment" : "Changes from Lianqi Wang",
-    "date" : "2023-09-14T09:27:29.244Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.7",
     "commit" : "95ebe15e3de10f2f9d28118889138ea31d8af8b4",
-    "user" : "abrighton",
+    "version" : "1.7",
+    "date" : "2021-05-12T08:36:49.488Z",
     "comment" : "Removed reference to IRMS in subsystem-model.conf",
-    "date" : "2021-05-12T08:36:49.488Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.6",
     "commit" : "828e02fa35bfa142d3429cbe2d58ce6bd24fdd8d",
-    "user" : "abrighton",
+    "version" : "1.6",
+    "date" : "2021-05-04T23:27:49.185Z",
     "comment" : "Publishing by request from Gelys",
-    "date" : "2021-05-04T23:27:49.185Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.5",
     "commit" : "764e028ad65a547ccca66fe8eead01d5c94d83d1",
-    "user" : "abrighton",
+    "version" : "1.5",
+    "date" : "2019-04-12T09:11:36.145Z",
     "comment" : "Published new AOESW API as requested by Jason",
-    "date" : "2019-04-12T09:11:36.145Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.4",
     "commit" : "a04a3af56690226fd0768538437fc04e3be3460a",
-    "user" : "scroberts",
+    "version" : "1.4",
+    "date" : "2018-09-12T19:03:22.426Z",
     "comment" : "API release prior to ESW PDR",
-    "date" : "2018-09-12T19:03:22.426Z"
+    "user" : "scroberts"
   }, {
-    "version" : "1.3",
     "commit" : "eb90e31c0ca5fbf4a75afea870ce0f814cb5df31",
-    "user" : "scroberts",
+    "version" : "1.3",
+    "date" : "2018-05-11T15:29:11.954Z",
     "comment" : "Release for NFIRAOS FDR",
-    "date" : "2018-05-11T15:29:11.954Z"
+    "user" : "scroberts"
   }, {
-    "version" : "1.2",
     "commit" : "baeb3ddeed1c8194b63283dd51c6be738b9dfa6a",
-    "user" : "scroberts",
+    "version" : "1.2",
+    "date" : "2017-11-16T00:55:36.357Z",
     "comment" : "Release for NFIRAOS RTC FDR",
-    "date" : "2017-11-16T00:55:36.357Z"
+    "user" : "scroberts"
   }, {
-    "version" : "1.1",
     "commit" : "830c16339862ba1ce53f2d93f9f5f4797c316f3c",
-    "user" : "scroberts",
+    "version" : "1.1",
+    "date" : "2017-11-15T21:07:49.648Z",
     "comment" : "API release prior to publishing NFIRAOS-AOESW ICD",
-    "date" : "2017-11-15T21:07:49.648Z"
+    "user" : "scroberts"
   }, {
-    "version" : "1.0",
     "commit" : "f1fb872ba9e49172033c307ce746c5021afb733a",
-    "user" : "scroberts",
+    "version" : "1.0",
+    "date" : "2017-07-28T21:15:26.879Z",
     "comment" : "Release after July 17, 2017 commit",
-    "date" : "2017-07-28T21:15:26.879Z"
+    "user" : "scroberts"
   } ]
 }
