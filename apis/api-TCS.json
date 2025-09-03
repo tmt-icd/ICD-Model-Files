@@ -1,124 +1,130 @@
 {
   "subsystem" : "TCS",
   "apis" : [ {
-    "version" : "1.19",
+    "commit" : "124a97e1f947122d7a0df3042dbbf4881932c54d",
+    "version" : "1.20",
+    "date" : "2025-09-03T20:45:52.452Z",
+    "comment" : "Published by request from Scott Michaels for APS FDR",
+    "user" : "jasonweiss"
+  }, {
     "commit" : "5ab9bfb713d967aabbcad27c5f3e54a289672d76",
-    "user" : "abrighton",
+    "version" : "1.19",
+    "date" : "2025-05-20T20:20:40.907Z",
     "comment" : "Published by request from Jason",
-    "date" : "2025-05-20T20:20:40.907Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.18",
     "commit" : "fffe8333e7b04af7e1dce7172bc93cc74f8ebf6e",
-    "user" : "abrighton",
+    "version" : "1.18",
+    "date" : "2025-05-09T21:37:06.418Z",
     "comment" : "Jason merged PRs",
-    "date" : "2025-05-09T21:37:06.418Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.17",
     "commit" : "f07db727bfd53b44099b07ee9dcadbd49ebe3074",
-    "user" : "abrighton",
+    "version" : "1.17",
+    "date" : "2025-05-07T19:48:45.838Z",
     "comment" : "Published by request from Jason",
-    "date" : "2025-05-07T19:48:45.838Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.16",
     "commit" : "9a64669098bafc19b357d8fd0da3b3370359059f",
-    "user" : "abrighton",
+    "version" : "1.16",
+    "date" : "2024-07-15T20:00:49.980Z",
     "comment" : "Changed tcs_seq component name to tcsSeq (Requested by Kim)",
-    "date" : "2024-07-15T20:00:49.980Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.15",
     "commit" : "6ba141fda95d8d8d8768cad4296f626cb921e8cb",
-    "user" : "abrighton",
+    "version" : "1.15",
+    "date" : "2024-07-02T08:10:24.685Z",
     "comment" : "Renamed tcs-seq to tcs_seq, since CSW component names are not allowed to contain a \"-\". \nRequested by Kim.\n",
-    "date" : "2024-07-02T08:10:24.685Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.14",
     "commit" : "b97c26b63961f0cdaaee80c0ecf45a1ce8d9b20c",
-    "user" : "abrighton",
+    "version" : "1.14",
+    "date" : "2024-06-25T19:40:06.406Z",
     "comment" : "Published by request from Angelic Ebbers\n",
-    "date" : "2024-06-25T19:40:06.406Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.13",
     "commit" : "33696df1e4b6f7e91104b6ffc6eb41154ac13180",
-    "user" : "abrighton",
+    "version" : "1.13",
+    "date" : "2024-04-26T19:52:58.430Z",
     "comment" : "Published by request from Jason",
-    "date" : "2024-04-26T19:52:58.430Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.12",
     "commit" : "62ac304dbbafb989047ce793eb238019ee736a97",
-    "user" : "abrighton",
+    "version" : "1.12",
+    "date" : "2023-01-25T18:41:02.039Z",
     "comment" : "- publishing by request of Angelic Ebbers",
-    "date" : "2023-01-25T18:41:02.039Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.11",
     "commit" : "d778e95c8b1eff83532243e3d2a16d104636e6a2",
-    "user" : "abrighton",
+    "version" : "1.11",
+    "date" : "2019-11-05T11:52:07.199Z",
     "comment" : "Published new TCS API as requested by Scott Michaels",
-    "date" : "2019-11-05T11:52:07.199Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.10",
     "commit" : "3f86ea91eca39abe3dc27e5d1a5d4e34dd8d6ad2",
-    "user" : "abrighton",
+    "version" : "1.10",
+    "date" : "2019-10-29T11:22:12.996Z",
     "comment" : "Published new TCS API as requested by Scott Michaels",
-    "date" : "2019-10-29T11:22:12.996Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.9",
     "commit" : "040983ebea30663e840806a3888155af7e9e3e65",
-    "user" : "abrighton",
+    "version" : "1.9",
+    "date" : "2019-08-27T22:05:05.293Z",
     "comment" : "Published new TCS API as requested by Jimmy Johnson",
-    "date" : "2019-08-27T22:05:05.293Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.8",
     "commit" : "5cdf2df03e373bf2a135cd01fe7f29d15e96a147",
-    "user" : "abrighton",
+    "version" : "1.8",
+    "date" : "2019-08-27T19:28:43.828Z",
     "comment" : "Published new TCS API as requested by Jimmy Johnson",
-    "date" : "2019-08-27T19:28:43.828Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.7",
     "commit" : "b7cab7b5df0fb1b4d8df1ae3bd979ff0f55aebd9",
-    "user" : "abrighton",
+    "version" : "1.7",
+    "date" : "2019-08-26T12:37:11.912Z",
     "comment" : "Published new TCS API as requested by Jimmy Johnson",
-    "date" : "2019-08-26T12:37:11.912Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.6",
     "commit" : "d7e354925ae64edcf1f9d61d4038a4af45083aeb",
-    "user" : "abrighton",
+    "version" : "1.6",
+    "date" : "2019-08-26T08:07:08.077Z",
     "comment" : "Published new TCS API as requested by Jimmy Johnson",
-    "date" : "2019-08-26T08:07:08.077Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.5",
     "commit" : "5f1513658f303bf1a42a4d0ec46d62dfc74f0954",
-    "user" : "abrighton",
+    "version" : "1.5",
+    "date" : "2019-08-23T20:33:18.080Z",
     "comment" : "Published new TCS API as requested by Jimmy Johnson",
-    "date" : "2019-08-23T20:33:18.080Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.4",
     "commit" : "8da9d13ed5685bf0c15df7269a9cf1523efbde05",
-    "user" : "scroberts",
+    "version" : "1.4",
+    "date" : "2018-09-12T19:04:09.382Z",
     "comment" : "API release prior to ESW PDR",
-    "date" : "2018-09-12T19:04:09.382Z"
+    "user" : "scroberts"
   }, {
-    "version" : "1.3",
     "commit" : "0af7365e5864e8c24516939e9f5678283b76749c",
-    "user" : "scroberts",
+    "version" : "1.3",
+    "date" : "2017-11-16T00:58:14.010Z",
     "comment" : "Release for NFIRAOS RTC FDR",
-    "date" : "2017-11-16T00:58:14.010Z"
+    "user" : "scroberts"
   }, {
-    "version" : "1.2",
     "commit" : "7f7595c2e1ea77d226d9f2d75358146d12509781",
-    "user" : "scroberts",
+    "version" : "1.2",
+    "date" : "2017-08-22T18:21:59.694Z",
     "comment" : "Publishing TCS API for IRIS PDR2",
-    "date" : "2017-08-22T18:21:59.694Z"
+    "user" : "scroberts"
   }, {
-    "version" : "1.1",
     "commit" : "defa679c065b96e0c2521803b608b76a64395177",
-    "user" : "scroberts",
+    "version" : "1.1",
+    "date" : "2017-07-28T21:14:00.786Z",
     "comment" : "Release after merging pull request #3",
-    "date" : "2017-07-28T21:14:00.786Z"
+    "user" : "scroberts"
   }, {
-    "version" : "1.0",
     "commit" : "4eb21a27503327eecfd5537c02a8c6e67d6d6a16",
-    "user" : "scroberts",
+    "version" : "1.0",
+    "date" : "2016-10-28T21:09:16.667Z",
     "comment" : "Initial release of API",
-    "date" : "2016-10-28T21:09:16.667Z"
+    "user" : "scroberts"
   } ]
 }
