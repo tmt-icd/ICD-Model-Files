@@ -1,34 +1,40 @@
 {
   "subsystems" : [ "TCS", "APS" ],
   "icds" : [ {
-    "icdVersion" : "1.4",
+    "versions" : [ "1.20", "1.8" ],
+    "icdVersion" : "1.5",
+    "date" : "2025-09-03T20:53:56.173Z",
+    "comment" : "Published by request from Scott Michaels for APS FDR",
+    "user" : "jasonweiss"
+  }, {
     "versions" : [ "1.14", "1.5" ],
-    "user" : "abrighton",
+    "icdVersion" : "1.4",
+    "date" : "2024-06-25T20:01:03.092Z",
     "comment" : "Published by request from Angelic Ebbers",
-    "date" : "2024-06-25T20:01:03.092Z"
+    "user" : "abrighton"
   }, {
-    "icdVersion" : "1.3",
     "versions" : [ "1.12", "1.4" ],
-    "user" : "abrighton",
+    "icdVersion" : "1.3",
+    "date" : "2023-01-25T18:42:12.463Z",
     "comment" : "- publishing by request of Angelic Ebbers",
-    "date" : "2023-01-25T18:42:12.463Z"
+    "user" : "abrighton"
   }, {
-    "icdVersion" : "1.2",
     "versions" : [ "1.9", "1.1" ],
-    "user" : "abrighton",
+    "icdVersion" : "1.2",
+    "date" : "2019-08-27T22:05:12.178Z",
     "comment" : "Published new TCS-APS ICD as requested by Jimmy Johnson",
-    "date" : "2019-08-27T22:05:12.178Z"
+    "user" : "abrighton"
   }, {
-    "icdVersion" : "1.1",
     "versions" : [ "1.8", "1.0" ],
-    "user" : "abrighton",
+    "icdVersion" : "1.1",
+    "date" : "2019-08-27T19:28:50.757Z",
     "comment" : "Published new TCS-APS ICD as requested by Jimmy Johnson",
-    "date" : "2019-08-27T19:28:50.757Z"
+    "user" : "abrighton"
   }, {
-    "icdVersion" : "1.0",
     "versions" : [ "1.6", "1.0" ],
-    "user" : "abrighton",
+    "icdVersion" : "1.0",
+    "date" : "2019-08-26T08:07:14.867Z",
     "comment" : "Published new TCS-APS ICD as requested by Jimmy Johnson",
-    "date" : "2019-08-26T08:07:14.867Z"
+    "user" : "abrighton"
   } ]
 }
