@@ -1,52 +1,58 @@
 {
   "subsystem" : "APS",
   "apis" : [ {
-    "version" : "1.7",
+    "commit" : "503215814fac633085e7a40d757b4838bd8e2d67",
+    "version" : "1.8",
+    "date" : "2025-09-03T20:44:36.516Z",
+    "comment" : "Published by request from Scott Michaels for APS FDR",
+    "user" : "jasonweiss"
+  }, {
     "commit" : "0e637aa63ee14d913795e257ed4bbd448c89c6fc",
-    "user" : "abrighton",
+    "version" : "1.7",
+    "date" : "2024-07-22T14:42:37.188Z",
     "comment" : "Published by request from Kim for APS ESW SDB",
-    "date" : "2024-07-22T14:42:37.188Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.6",
     "commit" : "114b12daf6a2e2a6be1a2fdadf7c20522208fa21",
-    "user" : "abrighton",
+    "version" : "1.6",
+    "date" : "2024-07-15T20:02:57.413Z",
     "comment" : "Published by request from Angelic Ebbers",
-    "date" : "2024-07-15T20:02:57.413Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.5",
     "commit" : "08fe01f9331c245826b65595b695c13ed1134dee",
-    "user" : "abrighton",
+    "version" : "1.5",
+    "date" : "2024-06-25T19:39:25.864Z",
     "comment" : "Published by request from Angelic Ebbers\n",
-    "date" : "2024-06-25T19:39:25.864Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.4",
     "commit" : "11c0968f907e00b45372550b8c92e696087daa8e",
-    "user" : "abrighton",
+    "version" : "1.4",
+    "date" : "2023-01-25T18:39:59.262Z",
     "comment" : "- added guiding residuals, publishing by request of Angelic Ebbers",
-    "date" : "2023-01-25T18:39:59.262Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.3",
     "commit" : "7263fe73c3fa23bcaf8b4b918e5041217e2e2957",
-    "user" : "abrighton",
+    "version" : "1.3",
+    "date" : "2023-01-18T18:41:58.631Z",
     "comment" : "Published new APS API as requested by Scott Michaels",
-    "date" : "2023-01-18T18:41:58.631Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.2",
     "commit" : "66534dbd513f36aacdb99ead0c60de78132492fb",
-    "user" : "abrighton",
+    "version" : "1.2",
+    "date" : "2021-05-22T19:24:31.734Z",
     "comment" : "Publishing by request from Gary Brack",
-    "date" : "2021-05-22T19:24:31.734Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.1",
     "commit" : "0742d03401f1c8f3fa00b115da178f62342d4069",
-    "user" : "abrighton",
+    "version" : "1.1",
+    "date" : "2019-08-27T22:04:58.239Z",
     "comment" : "Published new APS API as requested by Jimmy Johnson",
-    "date" : "2019-08-27T22:04:58.239Z"
+    "user" : "abrighton"
   }, {
-    "version" : "1.0",
     "commit" : "e3e44b914dfb40d77eb2ef8f91435f5a2696a994",
-    "user" : "abrighton",
+    "version" : "1.0",
+    "date" : "2019-08-26T08:07:00.876Z",
     "comment" : "Published new APS API as requested by Jimmy Johnson",
-    "date" : "2019-08-26T08:07:00.876Z"
+    "user" : "abrighton"
   } ]
 }
