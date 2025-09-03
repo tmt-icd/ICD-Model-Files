@@ -1,0 +1,10 @@
+{
+  "subsystems" : [ "APS", "SCMS" ],
+  "icds" : [ {
+    "versions" : [ "1.8", "1.0" ],
+    "icdVersion" : "1.0",
+    "date" : "2025-09-03T21:01:41.863Z",
+    "comment" : "Published by request from Scott Michaels for APS FDR",
+    "user" : "jasonweiss"
+  } ]
+}
