@@ -1,10 +1,16 @@
 {
   "subsystems" : [ "M1CS", "APS" ],
   "icds" : [ {
-    "icdVersion" : "1.0",
+    "versions" : [ "1.4", "1.8" ],
+    "icdVersion" : "1.1",
+    "date" : "2025-09-04T00:10:36.834Z",
+    "comment" : "Published by request from Scott Michaels for APS FDR",
+    "user" : "jasonweiss"
+  }, {
     "versions" : [ "1.2", "1.2" ],
-    "user" : "abrighton",
+    "icdVersion" : "1.0",
+    "date" : "2021-05-22T19:25:32.627Z",
     "comment" : "Publishing by request from Gary Brack",
-    "date" : "2021-05-22T19:25:32.627Z"
+    "user" : "abrighton"
   } ]
 }
