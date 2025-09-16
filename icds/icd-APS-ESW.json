@@ -1,10 +1,16 @@
 {
   "subsystems" : [ "APS", "ESW" ],
   "icds" : [ {
-    "icdVersion" : "1.0",
+    "versions" : [ "1.9", "1.7" ],
+    "icdVersion" : "1.1",
+    "date" : "2025-09-16T16:23:57.779Z",
+    "comment" : "Published by request from Scott Michaels for APS FDR",
+    "user" : "jasonweiss"
+  }, {
     "versions" : [ "1.7", "1.6" ],
-    "user" : "abrighton",
+    "icdVersion" : "1.0",
+    "date" : "2024-07-22T14:43:51.263Z",
     "comment" : "Published by request from Kim for APS ESW SDB",
-    "date" : "2024-07-22T14:43:51.263Z"
+    "user" : "abrighton"
   } ]
 }
