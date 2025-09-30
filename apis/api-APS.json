@@ -1,6 +1,12 @@
 {
   "subsystem" : "APS",
   "apis" : [ {
+    "commit" : "c4b5f05d8b5300e8d7b8b8f2c20ba33726fcbca5",
+    "version" : "1.10",
+    "date" : "2025-09-30T22:43:24.913Z",
+    "comment" : "Updates for APS FDR",
+    "user" : "jasonweiss"
+  }, {
     "commit" : "bb4873a30072328ff53c9b5d2fe2835e41591fc3",
     "version" : "1.9",
     "date" : "2025-09-16T16:21:24.105Z",
