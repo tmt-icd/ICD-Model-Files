@@ -1,6 +1,12 @@
 {
   "subsystem" : "APS",
   "apis" : [ {
+    "commit" : "a2c1d8db9e3dcdb5928290e5ff84309d0dd5793f",
+    "version" : "1.11",
+    "date" : "2025-10-14T18:20:25.141Z",
+    "comment" : "Updates for APS PDR",
+    "user" : "jasonweiss"
+  }, {
     "commit" : "c4b5f05d8b5300e8d7b8b8f2c20ba33726fcbca5",
     "version" : "1.10",
     "date" : "2025-09-30T22:43:24.913Z",
