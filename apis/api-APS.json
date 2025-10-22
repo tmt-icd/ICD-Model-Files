@@ -1,6 +1,12 @@
 {
   "subsystem" : "APS",
   "apis" : [ {
+    "commit" : "6917facffe172a79aa086a3a94eb67838d85432c",
+    "version" : "2.1",
+    "date" : "2025-10-22T18:57:20.816Z",
+    "comment" : "Final update before FDR",
+    "user" : "jasonweiss"
+  }, {
     "commit" : "8505afb256ce9fa6d496403c8f0182827980b5dd",
     "version" : "2.0",
     "date" : "2025-10-14T20:48:54.337Z",
