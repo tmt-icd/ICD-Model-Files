@@ -1,22 +1,28 @@
 {
   "subsystems" : [ "LGSF", "AOESW" ],
   "icds" : [ {
-    "icdVersion" : "1.2",
+    "versions" : [ "1.3", "2.0" ],
+    "icdVersion" : "2.0",
+    "date" : "2025-11-04T02:02:09.362Z",
+    "comment" : "Updates for AOSQ PDR",
+    "user" : "jasonweiss"
+  }, {
     "versions" : [ "1.2", "1.9" ],
-    "user" : "abrighton",
+    "icdVersion" : "1.2",
+    "date" : "2023-09-26T09:03:23.051Z",
     "comment" : "Made some updates to the LGSF model files to fix a few issues",
-    "date" : "2023-09-26T09:03:23.051Z"
+    "user" : "abrighton"
   }, {
-    "icdVersion" : "1.1",
     "versions" : [ "1.1", "1.9" ],
-    "user" : "abrighton",
+    "icdVersion" : "1.1",
+    "date" : "2023-09-14T20:34:35.219Z",
     "comment" : "Changes from Lianqi Wang",
-    "date" : "2023-09-14T20:34:35.219Z"
+    "user" : "abrighton"
   }, {
-    "icdVersion" : "1.0",
     "versions" : [ "1.0", "1.8" ],
-    "user" : "abrighton",
+    "icdVersion" : "1.0",
+    "date" : "2023-09-14T09:30:03.786Z",
     "comment" : "Changes from Lianqi Wang",
-    "date" : "2023-09-14T09:30:03.786Z"
+    "user" : "abrighton"
   } ]
 }
