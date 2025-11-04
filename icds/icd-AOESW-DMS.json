@@ -1,16 +1,22 @@
 {
   "subsystems" : [ "AOESW", "DMS" ],
   "icds" : [ {
-    "icdVersion" : "1.1",
-    "versions" : [ "1.10", "1.1" ],
-    "user" : "abrighton",
-    "comment" : "Changed TMT to TIO in DMS description",
-    "date" : "2024-04-19T18:03:40.997Z"
+    "versions" : [ "2.0", "1.4" ],
+    "icdVersion" : "2.0",
+    "date" : "2025-11-04T02:01:26.892Z",
+    "comment" : "Updates for AOSQ PDR",
+    "user" : "jasonweiss"
   }, {
-    "icdVersion" : "1.0",
+    "versions" : [ "1.10", "1.1" ],
+    "icdVersion" : "1.1",
+    "date" : "2024-04-19T18:03:40.997Z",
+    "comment" : "Changed TMT to TIO in DMS description",
+    "user" : "abrighton"
+  }, {
     "versions" : [ "1.10", "1.0" ],
-    "user" : "abrighton",
+    "icdVersion" : "1.0",
+    "date" : "2024-04-16T18:54:05.249Z",
     "comment" : "Published by request from Jason Weiss",
-    "date" : "2024-04-16T18:54:05.249Z"
+    "user" : "abrighton"
   } ]
 }
