@@ -1,6 +1,12 @@
 {
   "subsystem" : "ESW",
   "apis" : [ {
+    "commit" : "96c58464f4d01d4a7f2eddc151c4c42c7232d614",
+    "version" : "2.0",
+    "date" : "2025-11-04T01:46:16.137Z",
+    "comment" : "Updates for AOSQ PDR",
+    "user" : "jasonweiss"
+  }, {
     "commit" : "ac49dce47004fe3bb1a13ea9bbf26bd7aebc2bc5",
     "version" : "1.7",
     "date" : "2025-09-16T16:23:03.791Z",
