@@ -1,6 +1,12 @@
 {
   "subsystem" : "AOESW",
   "apis" : [ {
+    "commit" : "7cd7bee584fe1fe31d25f8e4321796a05bb2e6f8",
+    "version" : "2.1",
+    "date" : "2025-12-17T17:41:46.617Z",
+    "comment" : "AOSQ PDR Closeout",
+    "user" : "jasonweiss"
+  }, {
     "commit" : "be354304494ab5e4eff7060be51871f87e2c948f",
     "version" : "2.0",
     "date" : "2025-11-04T01:44:25.694Z",
