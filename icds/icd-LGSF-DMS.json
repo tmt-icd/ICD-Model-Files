@@ -1,0 +1,10 @@
+{
+  "subsystems" : [ "LGSF", "DMS" ],
+  "icds" : [ {
+    "versions" : [ "1.5", "1.4" ],
+    "icdVersion" : "1.0",
+    "date" : "2026-07-10T15:56:56.047Z",
+    "comment" : "Updated for LGSF (DD2)",
+    "user" : "jasonweiss"
+  } ]
+}
