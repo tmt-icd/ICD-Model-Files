@@ -1,6 +1,12 @@
 {
   "subsystem" : "LGSF",
   "apis" : [ {
+    "commit" : "24e5dfb72ac1c49fce644a5f7964b36ab63ddf76",
+    "version" : "1.5",
+    "date" : "2026-07-10T15:19:41.615Z",
+    "comment" : "Updated for LGSF (DD2)",
+    "user" : "jasonweiss"
+  }, {
     "commit" : "4a62beba167da142eeb9520cbe5fee9af86a170d",
     "version" : "1.4",
     "date" : "2026-06-10T00:59:21.498Z",
