@@ -1,6 +1,12 @@
 {
   "subsystem" : "AOESW",
   "apis" : [ {
+    "commit" : "a81fd34b7861869653b541460f307917125468cb",
+    "version" : "2.2",
+    "date" : "2026-07-10T15:18:29.856Z",
+    "comment" : "Updated for LGSF (DD2)",
+    "user" : "jasonweiss"
+  }, {
     "commit" : "7cd7bee584fe1fe31d25f8e4321796a05bb2e6f8",
     "version" : "2.1",
     "date" : "2025-12-17T17:41:46.617Z",
