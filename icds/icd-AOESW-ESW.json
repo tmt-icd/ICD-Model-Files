@@ -1,6 +1,12 @@
 {
   "subsystems" : [ "AOESW", "ESW" ],
   "icds" : [ {
+    "versions" : [ "2.2", "2.1" ],
+    "icdVersion" : "2.1",
+    "date" : "2026-08-18T23:05:31.018Z",
+    "comment" : "Final update for DD2",
+    "user" : "jmilestmt"
+  }, {
     "versions" : [ "2.0", "2.0" ],
     "icdVersion" : "2.0",
     "date" : "2025-11-04T02:00:08.863Z",
