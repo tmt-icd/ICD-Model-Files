@@ -1,6 +1,12 @@
 {
   "subsystem" : "ESW",
   "apis" : [ {
+    "commit" : "e69a062c11a63a73458b3b51826be56498434d20",
+    "version" : "2.1",
+    "date" : "2026-08-18T22:54:57.008Z",
+    "comment" : "Final update for DD2",
+    "user" : "jmilestmt"
+  }, {
     "commit" : "96c58464f4d01d4a7f2eddc151c4c42c7232d614",
     "version" : "2.0",
     "date" : "2025-11-04T01:46:16.137Z",
