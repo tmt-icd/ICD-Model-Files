@@ -1,6 +1,12 @@
 {
   "subsystem" : "LGSF",
   "apis" : [ {
+    "commit" : "27c0e976c6bf556a279722a28392fd171f5a0f40",
+    "version" : "1.6",
+    "date" : "2026-08-18T22:53:13.590Z",
+    "comment" : "Final update for DD2",
+    "user" : "jmilestmt"
+  }, {
     "commit" : "24e5dfb72ac1c49fce644a5f7964b36ab63ddf76",
     "version" : "1.5",
     "date" : "2026-07-10T15:19:41.615Z",
